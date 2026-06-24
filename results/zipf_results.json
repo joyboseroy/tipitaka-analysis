@@ -1,0 +1,8236 @@
+{
+  "length_stats": {
+    "sutta": {
+      "n_segments": 114591,
+      "chars": {
+        "min": 10,
+        "p10": 21,
+        "p25": 32,
+        "median": 51,
+        "p75": 95,
+        "p90": 150,
+        "max": 1143
+      },
+      "words": {
+        "min": 1,
+        "p10": 4,
+        "p25": 6,
+        "median": 9,
+        "p75": 16,
+        "p90": 25,
+        "max": 199
+      }
+    },
+    "vinaya_brahmali": {
+      "n_segments": 7923,
+      "chars": {
+        "min": 35,
+        "p10": 81,
+        "p25": 148,
+        "median": 431,
+        "p75": 1181,
+        "p90": 1942,
+        "max": 3019
+      },
+      "words": {
+        "min": 8,
+        "p10": 13,
+        "p25": 25,
+        "median": 76,
+        "p75": 199,
+        "p90": 330,
+        "max": 509
+      }
+    },
+    "vinaya_horner": {
+      "n_segments": 2826,
+      "chars": {
+        "min": 25,
+        "p10": 51,
+        "p25": 85,
+        "median": 162,
+        "p75": 319,
+        "p90": 562,
+        "max": 1803
+      },
+      "words": {
+        "min": 8,
+        "p10": 10,
+        "p25": 15,
+        "median": 30,
+        "p75": 58,
+        "p90": 102,
+        "max": 319
+      }
+    },
+    "vinaya_dharmaguptaka": {
+      "n_segments": 185,
+      "chars": {
+        "min": 53,
+        "p10": 127,
+        "p25": 296,
+        "median": 607,
+        "p75": 1067,
+        "p90": 1974,
+        "max": 2823
+      },
+      "words": {
+        "min": 9,
+        "p10": 23,
+        "p25": 47,
+        "median": 97,
+        "p75": 174,
+        "p90": 332,
+        "max": 526
+      }
+    },
+    "vinaya_mulasarvastivada": {
+      "n_segments": 7229,
+      "chars": {
+        "min": 26,
+        "p10": 68,
+        "p25": 109,
+        "median": 166,
+        "p75": 288,
+        "p90": 477,
+        "max": 2532
+      },
+      "words": {
+        "min": 8,
+        "p10": 12,
+        "p25": 19,
+        "median": 29,
+        "p75": 50,
+        "p90": 83,
+        "max": 409
+      }
+    },
+    "abhidhamma": {
+      "n_segments": 2077,
+      "chars": {
+        "min": 11,
+        "p10": 59,
+        "p25": 114,
+        "median": 321,
+        "p75": 887,
+        "p90": 1383,
+        "max": 2955
+      },
+      "words": {
+        "min": 6,
+        "p10": 10,
+        "p25": 17,
+        "median": 46,
+        "p75": 126,
+        "p90": 215,
+        "max": 486
+      }
+    },
+    "pitaka_sutta": {
+      "n_segments": 114591,
+      "chars": {
+        "min": 10,
+        "p10": 21,
+        "p25": 32,
+        "median": 51,
+        "p75": 95,
+        "p90": 150,
+        "max": 1143
+      },
+      "words": {
+        "min": 1,
+        "p10": 4,
+        "p25": 6,
+        "median": 9,
+        "p75": 16,
+        "p90": 25,
+        "max": 199
+      }
+    },
+    "pitaka_vinaya_theravada": {
+      "n_segments": 10749,
+      "chars": {
+        "min": 25,
+        "p10": 66,
+        "p25": 128,
+        "median": 289,
+        "p75": 911,
+        "p90": 1752,
+        "max": 3019
+      },
+      "words": {
+        "min": 8,
+        "p10": 11,
+        "p25": 22,
+        "median": 51,
+        "p75": 157,
+        "p90": 300,
+        "max": 509
+      }
+    },
+    "pitaka_vinaya_all": {
+      "n_segments": 18163,
+      "chars": {
+        "min": 25,
+        "p10": 67,
+        "p25": 118,
+        "median": 215,
+        "p75": 549,
+        "p90": 1322,
+        "max": 3019
+      },
+      "words": {
+        "min": 8,
+        "p10": 11,
+        "p25": 20,
+        "median": 38,
+        "p75": 95,
+        "p90": 226,
+        "max": 526
+      }
+    },
+    "pitaka_abhidhamma": {
+      "n_segments": 2077,
+      "chars": {
+        "min": 11,
+        "p10": 59,
+        "p25": 114,
+        "median": 321,
+        "p75": 887,
+        "p90": 1383,
+        "max": 2955
+      },
+      "words": {
+        "min": 6,
+        "p10": 10,
+        "p25": 17,
+        "median": 46,
+        "p75": 126,
+        "p90": 215,
+        "max": 486
+      }
+    },
+    "tipitaka_theravada": {
+      "n_segments": 124591,
+      "chars": {
+        "min": 10,
+        "p10": 22,
+        "p25": 33,
+        "median": 56,
+        "p75": 108,
+        "p90": 192,
+        "max": 3019
+      },
+      "words": {
+        "min": 1,
+        "p10": 4,
+        "p25": 6,
+        "median": 10,
+        "p75": 18,
+        "p90": 32,
+        "max": 509
+      }
+    }
+  },
+  "word_frequency": {
+    "pitaka_sutta": [
+      {
+        "word": "one",
+        "count": 10299
+      },
+      {
+        "word": "buddha",
+        "count": 8453
+      },
+      {
+        "word": "there",
+        "count": 7287
+      },
+      {
+        "word": "mendicant",
+        "count": 6252
+      },
+      {
+        "word": "mind",
+        "count": 5841
+      },
+      {
+        "word": "mendicants",
+        "count": 5190
+      },
+      {
+        "word": "said",
+        "count": 5115
+      },
+      {
+        "word": "right",
+        "count": 4128
+      },
+      {
+        "word": "time",
+        "count": 3248
+      },
+      {
+        "word": "teaching",
+        "count": 3238
+      },
+      {
+        "word": "like",
+        "count": 3203
+      },
+      {
+        "word": "sir",
+        "count": 3200
+      },
+      {
+        "word": "good",
+        "count": 3195
+      },
+      {
+        "word": "body",
+        "count": 3179
+      },
+      {
+        "word": "suffering",
+        "count": 3165
+      },
+      {
+        "word": "life",
+        "count": 3102
+      },
+      {
+        "word": "things",
+        "count": 2965
+      },
+      {
+        "word": "way",
+        "count": 2953
+      },
+      {
+        "word": "four",
+        "count": 2946
+      },
+      {
+        "word": "five",
+        "count": 2879
+      },
+      {
+        "word": "world",
+        "count": 2642
+      },
+      {
+        "word": "qualities",
+        "count": 2595
+      },
+      {
+        "word": "noble",
+        "count": 2504
+      },
+      {
+        "word": "say",
+        "count": 2405
+      },
+      {
+        "word": "realized",
+        "count": 2343
+      },
+      {
+        "word": "consciousness",
+        "count": 2303
+      },
+      {
+        "word": "see",
+        "count": 2280
+      },
+      {
+        "word": "three",
+        "count": 2257
+      },
+      {
+        "word": "well",
+        "count": 2217
+      },
+      {
+        "word": "why",
+        "count": 2157
+      },
+      {
+        "word": "person",
+        "count": 2113
+      },
+      {
+        "word": "death",
+        "count": 2083
+      },
+      {
+        "word": "gods",
+        "count": 2074
+      },
+      {
+        "word": "perception",
+        "count": 2021
+      },
+      {
+        "word": "practice",
+        "count": 2009
+      },
+      {
+        "word": "understand",
+        "count": 1939
+      },
+      {
+        "word": "bad",
+        "count": 1853
+      },
+      {
+        "word": "immersion",
+        "count": 1849
+      },
+      {
+        "word": "down",
+        "count": 1847
+      },
+      {
+        "word": "can",
+        "count": 1800
+      },
+      {
+        "word": "venerable",
+        "count": 1795
+      },
+      {
+        "word": "away",
+        "count": 1795
+      },
+      {
+        "word": "reborn",
+        "count": 1790
+      },
+      {
+        "word": "someone",
+        "count": 1782
+      },
+      {
+        "word": "worthy",
+        "count": 1771
+      },
+      {
+        "word": "view",
+        "count": 1770
+      },
+      {
+        "word": "feeling",
+        "count": 1767
+      },
+      {
+        "word": "wisdom",
+        "count": 1764
+      },
+      {
+        "word": "go",
+        "count": 1763
+      },
+      {
+        "word": "cessation",
+        "count": 1752
+      }
+    ],
+    "pitaka_vinaya_theravada": [
+      {
+        "word": "one",
+        "count": 10050
+      },
+      {
+        "word": "monks",
+        "count": 7695
+      },
+      {
+        "word": "there",
+        "count": 7404
+      },
+      {
+        "word": "monk",
+        "count": 7346
+      },
+      {
+        "word": "sangha",
+        "count": 4788
+      },
+      {
+        "word": "commits",
+        "count": 4675
+      },
+      {
+        "word": "entailing",
+        "count": 4354
+      },
+      {
+        "word": "buddha",
+        "count": 3882
+      },
+      {
+        "word": "legal",
+        "count": 3431
+      },
+      {
+        "word": "wrong",
+        "count": 3305
+      },
+      {
+        "word": "conduct",
+        "count": 3223
+      },
+      {
+        "word": "robe",
+        "count": 3055
+      },
+      {
+        "word": "procedure",
+        "count": 2682
+      },
+      {
+        "word": "rule",
+        "count": 2654
+      },
+      {
+        "word": "time",
+        "count": 2573
+      },
+      {
+        "word": "down",
+        "count": 2403
+      },
+      {
+        "word": "nuns",
+        "count": 2207
+      },
+      {
+        "word": "training",
+        "count": 2190
+      },
+      {
+        "word": "confession",
+        "count": 2162
+      },
+      {
+        "word": "two",
+        "count": 2151
+      },
+      {
+        "word": "monastery",
+        "count": 2097
+      },
+      {
+        "word": "nun",
+        "count": 2086
+      },
+      {
+        "word": "three",
+        "count": 2046
+      },
+      {
+        "word": "monastic",
+        "count": 1925
+      },
+      {
+        "word": "done",
+        "count": 1908
+      },
+      {
+        "word": "said",
+        "count": 1873
+      },
+      {
+        "word": "give",
+        "count": 1783
+      },
+      {
+        "word": "kinds",
+        "count": 1768
+      },
+      {
+        "word": "offense",
+        "count": 1765
+      },
+      {
+        "word": "see",
+        "count": 1707
+      },
+      {
+        "word": "six",
+        "count": 1636
+      },
+      {
+        "word": "like",
+        "count": 1576
+      },
+      {
+        "word": "first",
+        "count": 1552
+      },
+      {
+        "word": "having",
+        "count": 1506
+      },
+      {
+        "word": "teaching",
+        "count": 1480
+      },
+      {
+        "word": "bu",
+        "count": 1447
+      },
+      {
+        "word": "five",
+        "count": 1413
+      },
+      {
+        "word": "full",
+        "count": 1399
+      },
+      {
+        "word": "kd",
+        "count": 1365
+      },
+      {
+        "word": "without",
+        "count": 1332
+      },
+      {
+        "word": "another",
+        "count": 1332
+      },
+      {
+        "word": "given",
+        "count": 1332
+      },
+      {
+        "word": "sp",
+        "count": 1318
+      },
+      {
+        "word": "people",
+        "count": 1302
+      },
+      {
+        "word": "group",
+        "count": 1298
+      },
+      {
+        "word": "because",
+        "count": 1298
+      },
+      {
+        "word": "finished",
+        "count": 1270
+      },
+      {
+        "word": "venerable",
+        "count": 1267
+      },
+      {
+        "word": "told",
+        "count": 1246
+      },
+      {
+        "word": "while",
+        "count": 1221
+      }
+    ],
+    "pitaka_abhidhamma": [
+      {
+        "word": "consciousness",
+        "count": 2007
+      },
+      {
+        "word": "one",
+        "count": 1050
+      },
+      {
+        "word": "mental",
+        "count": 742
+      },
+      {
+        "word": "object",
+        "count": 715
+      },
+      {
+        "word": "mind",
+        "count": 664
+      },
+      {
+        "word": "types",
+        "count": 634
+      },
+      {
+        "word": "four",
+        "count": 577
+      },
+      {
+        "word": "cittas",
+        "count": 577
+      },
+      {
+        "word": "sense",
+        "count": 547
+      },
+      {
+        "word": "material",
+        "count": 530
+      },
+      {
+        "word": "there",
+        "count": 530
+      },
+      {
+        "word": "two",
+        "count": 506
+      },
+      {
+        "word": "three",
+        "count": 488
+      },
+      {
+        "word": "states",
+        "count": 485
+      },
+      {
+        "word": "five",
+        "count": 455
+      },
+      {
+        "word": "matter",
+        "count": 441
+      },
+      {
+        "word": "kamma",
+        "count": 431
+      },
+      {
+        "word": "abhidhamma",
+        "count": 387
+      },
+      {
+        "word": "called",
+        "count": 381
+      },
+      {
+        "word": "only",
+        "count": 367
+      },
+      {
+        "word": "arise",
+        "count": 366
+      },
+      {
+        "word": "factors",
+        "count": 353
+      },
+      {
+        "word": "feeling",
+        "count": 331
+      },
+      {
+        "word": "because",
+        "count": 329
+      },
+      {
+        "word": "sphere",
+        "count": 327
+      },
+      {
+        "word": "first",
+        "count": 325
+      },
+      {
+        "word": "citta",
+        "count": 324
+      },
+      {
+        "word": "knowledge",
+        "count": 320
+      },
+      {
+        "word": "door",
+        "count": 318
+      },
+      {
+        "word": "condition",
+        "count": 301
+      },
+      {
+        "word": "ti",
+        "count": 298
+      },
+      {
+        "word": "body",
+        "count": 296
+      },
+      {
+        "word": "accompanied",
+        "count": 295
+      },
+      {
+        "word": "thus",
+        "count": 290
+      },
+      {
+        "word": "life",
+        "count": 287
+      },
+      {
+        "word": "phenomena",
+        "count": 286
+      },
+      {
+        "word": "process",
+        "count": 280
+      },
+      {
+        "word": "path",
+        "count": 280
+      },
+      {
+        "word": "according",
+        "count": 275
+      },
+      {
+        "word": "means",
+        "count": 274
+      },
+      {
+        "word": "moment",
+        "count": 268
+      },
+      {
+        "word": "way",
+        "count": 263
+      },
+      {
+        "word": "thought",
+        "count": 253
+      },
+      {
+        "word": "pa",
+        "count": 252
+      },
+      {
+        "word": "objects",
+        "count": 246
+      },
+      {
+        "word": "born",
+        "count": 242
+      },
+      {
+        "word": "arises",
+        "count": 238
+      },
+      {
+        "word": "etc",
+        "count": 233
+      },
+      {
+        "word": "eva",
+        "count": 226
+      },
+      {
+        "word": "non",
+        "count": 224
+      }
+    ],
+    "pitaka_vinaya_all": [
+      {
+        "word": "one",
+        "count": 14111
+      },
+      {
+        "word": "monks",
+        "count": 8552
+      },
+      {
+        "word": "there",
+        "count": 8502
+      },
+      {
+        "word": "monk",
+        "count": 7648
+      },
+      {
+        "word": "buddha",
+        "count": 4834
+      },
+      {
+        "word": "commits",
+        "count": 4817
+      },
+      {
+        "word": "sangha",
+        "count": 4789
+      },
+      {
+        "word": "entailing",
+        "count": 4354
+      },
+      {
+        "word": "legal",
+        "count": 3431
+      },
+      {
+        "word": "wrong",
+        "count": 3352
+      },
+      {
+        "word": "conduct",
+        "count": 3315
+      },
+      {
+        "word": "robe",
+        "count": 3304
+      },
+      {
+        "word": "time",
+        "count": 3241
+      },
+      {
+        "word": "said",
+        "count": 3132
+      },
+      {
+        "word": "down",
+        "count": 2700
+      },
+      {
+        "word": "rule",
+        "count": 2693
+      },
+      {
+        "word": "procedure",
+        "count": 2691
+      },
+      {
+        "word": "two",
+        "count": 2606
+      },
+      {
+        "word": "three",
+        "count": 2477
+      },
+      {
+        "word": "king",
+        "count": 2470
+      },
+      {
+        "word": "having",
+        "count": 2276
+      },
+      {
+        "word": "training",
+        "count": 2258
+      },
+      {
+        "word": "see",
+        "count": 2242
+      },
+      {
+        "word": "nuns",
+        "count": 2216
+      },
+      {
+        "word": "monastery",
+        "count": 2193
+      },
+      {
+        "word": "confession",
+        "count": 2178
+      },
+      {
+        "word": "blessed",
+        "count": 2121
+      },
+      {
+        "word": "nun",
+        "count": 2096
+      },
+      {
+        "word": "give",
+        "count": 2083
+      },
+      {
+        "word": "done",
+        "count": 2009
+      },
+      {
+        "word": "monastic",
+        "count": 1978
+      },
+      {
+        "word": "kinds",
+        "count": 1977
+      },
+      {
+        "word": "like",
+        "count": 1968
+      },
+      {
+        "word": "venerable",
+        "count": 1902
+      },
+      {
+        "word": "people",
+        "count": 1865
+      },
+      {
+        "word": "offense",
+        "count": 1829
+      },
+      {
+        "word": "five",
+        "count": 1817
+      },
+      {
+        "word": "six",
+        "count": 1805
+      },
+      {
+        "word": "first",
+        "count": 1781
+      },
+      {
+        "word": "go",
+        "count": 1722
+      },
+      {
+        "word": "because",
+        "count": 1703
+      },
+      {
+        "word": "made",
+        "count": 1621
+      },
+      {
+        "word": "another",
+        "count": 1587
+      },
+      {
+        "word": "many",
+        "count": 1553
+      },
+      {
+        "word": "without",
+        "count": 1548
+      },
+      {
+        "word": "teaching",
+        "count": 1546
+      },
+      {
+        "word": "full",
+        "count": 1538
+      },
+      {
+        "word": "four",
+        "count": 1499
+      },
+      {
+        "word": "given",
+        "count": 1493
+      },
+      {
+        "word": "bu",
+        "count": 1488
+      }
+    ]
+  },
+  "ttr": {
+    "sutta": {
+      "tokens": 735132,
+      "types": 11927,
+      "ttr": 0.0162
+    },
+    "vinaya_brahmali": {
+      "tokens": 480385,
+      "types": 18067,
+      "ttr": 0.0376
+    },
+    "vinaya_horner": {
+      "tokens": 62441,
+      "types": 8660,
+      "ttr": 0.1387
+    },
+    "vinaya_dharmaguptaka": {
+      "tokens": 13953,
+      "types": 2282,
+      "ttr": 0.1635
+    },
+    "vinaya_mulasarvastivada": {
+      "tokens": 154851,
+      "types": 11515,
+      "ttr": 0.0744
+    },
+    "abhidhamma": {
+      "tokens": 105726,
+      "types": 14090,
+      "ttr": 0.1333
+    },
+    "pitaka_sutta": {
+      "tokens": 735132,
+      "types": 11927,
+      "ttr": 0.0162
+    },
+    "pitaka_vinaya_theravada": {
+      "tokens": 542826,
+      "types": 22394,
+      "ttr": 0.0413
+    },
+    "pitaka_vinaya_all": {
+      "tokens": 711630,
+      "types": 28514,
+      "ttr": 0.0401
+    },
+    "pitaka_abhidhamma": {
+      "tokens": 105726,
+      "types": 14090,
+      "ttr": 0.1333
+    },
+    "tipitaka_theravada": {
+      "tokens": 1321243,
+      "types": 32902,
+      "ttr": 0.0249
+    }
+  },
+  "zipf": {
+    "pitaka_sutta": [
+      {
+        "rank": 1,
+        "word": "the",
+        "count": 85301,
+        "freq": 0.06231194,
+        "log_rank": 0.0,
+        "log_freq": -1.2054
+      },
+      {
+        "rank": 2,
+        "word": "and",
+        "count": 61649,
+        "freq": 0.04503428,
+        "log_rank": 0.301,
+        "log_freq": -1.3465
+      },
+      {
+        "rank": 3,
+        "word": "of",
+        "count": 39263,
+        "freq": 0.02868142,
+        "log_rank": 0.4771,
+        "log_freq": -1.5424
+      },
+      {
+        "rank": 4,
+        "word": "is",
+        "count": 29110,
+        "freq": 0.02126471,
+        "log_rank": 0.6021,
+        "log_freq": -1.6723
+      },
+      {
+        "rank": 5,
+        "word": "to",
+        "count": 28521,
+        "freq": 0.02083444,
+        "log_rank": 0.699,
+        "log_freq": -1.6812
+      },
+      {
+        "rank": 6,
+        "word": "in",
+        "count": 23810,
+        "freq": 0.01739308,
+        "log_rank": 0.7782,
+        "log_freq": -1.7596
+      },
+      {
+        "rank": 7,
+        "word": "that",
+        "count": 21800,
+        "freq": 0.01592479,
+        "log_rank": 0.8451,
+        "log_freq": -1.7979
+      },
+      {
+        "rank": 8,
+        "word": "they",
+        "count": 20595,
+        "freq": 0.01504454,
+        "log_rank": 0.9031,
+        "log_freq": -1.8226
+      },
+      {
+        "rank": 9,
+        "word": "this",
+        "count": 17655,
+        "freq": 0.01289689,
+        "log_rank": 0.9542,
+        "log_freq": -1.8895
+      },
+      {
+        "rank": 10,
+        "word": "it",
+        "count": 13981,
+        "freq": 0.01021305,
+        "log_rank": 1.0,
+        "log_freq": -1.9908
+      },
+      {
+        "rank": 11,
+        "word": "with",
+        "count": 12448,
+        "freq": 0.0090932,
+        "log_rank": 1.0414,
+        "log_freq": -2.0413
+      },
+      {
+        "rank": 12,
+        "word": "for",
+        "count": 12241,
+        "freq": 0.00894199,
+        "log_rank": 1.0792,
+        "log_freq": -2.0486
+      },
+      {
+        "rank": 13,
+        "word": "are",
+        "count": 11025,
+        "freq": 0.00805371,
+        "log_rank": 1.1139,
+        "log_freq": -2.094
+      },
+      {
+        "rank": 14,
+        "word": "when",
+        "count": 10738,
+        "freq": 0.00784405,
+        "log_rank": 1.1461,
+        "log_freq": -2.1055
+      },
+      {
+        "rank": 15,
+        "word": "you",
+        "count": 10449,
+        "freq": 0.00763294,
+        "log_rank": 1.1761,
+        "log_freq": -2.1173
+      },
+      {
+        "rank": 16,
+        "word": "what",
+        "count": 10411,
+        "freq": 0.00760518,
+        "log_rank": 1.2041,
+        "log_freq": -2.1189
+      },
+      {
+        "rank": 17,
+        "word": "one",
+        "count": 10299,
+        "freq": 0.00752337,
+        "log_rank": 1.2304,
+        "log_freq": -2.1236
+      },
+      {
+        "rank": 18,
+        "word": "not",
+        "count": 10125,
+        "freq": 0.00739626,
+        "log_rank": 1.2553,
+        "log_freq": -2.131
+      },
+      {
+        "rank": 19,
+        "word": "or",
+        "count": 10008,
+        "freq": 0.00731079,
+        "log_rank": 1.2788,
+        "log_freq": -2.136
+      },
+      {
+        "rank": 20,
+        "word": "who",
+        "count": 8472,
+        "freq": 0.00618875,
+        "log_rank": 1.301,
+        "log_freq": -2.2084
+      },
+      {
+        "rank": 21,
+        "word": "buddha",
+        "count": 8453,
+        "freq": 0.00617487,
+        "log_rank": 1.3222,
+        "log_freq": -2.2094
+      },
+      {
+        "rank": 22,
+        "word": "by",
+        "count": 8314,
+        "freq": 0.00607333,
+        "log_rank": 1.3424,
+        "log_freq": -2.2166
+      },
+      {
+        "rank": 23,
+        "word": "as",
+        "count": 7483,
+        "freq": 0.00546629,
+        "log_rank": 1.3617,
+        "log_freq": -2.2623
+      },
+      {
+        "rank": 24,
+        "word": "there",
+        "count": 7287,
+        "freq": 0.00532312,
+        "log_rank": 1.3802,
+        "log_freq": -2.2738
+      },
+      {
+        "rank": 25,
+        "word": "up",
+        "count": 6679,
+        "freq": 0.00487898,
+        "log_rank": 1.3979,
+        "log_freq": -2.3117
+      },
+      {
+        "rank": 26,
+        "word": "he",
+        "count": 6622,
+        "freq": 0.00483734,
+        "log_rank": 1.415,
+        "log_freq": -2.3154
+      },
+      {
+        "rank": 27,
+        "word": "be",
+        "count": 6282,
+        "freq": 0.00458897,
+        "log_rank": 1.4314,
+        "log_freq": -2.3383
+      },
+      {
+        "rank": 28,
+        "word": "has",
+        "count": 6263,
+        "freq": 0.00457509,
+        "log_rank": 1.4472,
+        "log_freq": -2.3396
+      },
+      {
+        "rank": 29,
+        "word": "mendicant",
+        "count": 6252,
+        "freq": 0.00456705,
+        "log_rank": 1.4624,
+        "log_freq": -2.3404
+      },
+      {
+        "rank": 30,
+        "word": "these",
+        "count": 6155,
+        "freq": 0.0044962,
+        "log_rank": 1.4771,
+        "log_freq": -2.3472
+      },
+      {
+        "rank": 31,
+        "word": "their",
+        "count": 6012,
+        "freq": 0.00439174,
+        "log_rank": 1.4914,
+        "log_freq": -2.3574
+      },
+      {
+        "rank": 32,
+        "word": "mind",
+        "count": 5841,
+        "freq": 0.00426682,
+        "log_rank": 1.5051,
+        "log_freq": -2.3699
+      },
+      {
+        "rank": 33,
+        "word": "on",
+        "count": 5734,
+        "freq": 0.00418866,
+        "log_rank": 1.5185,
+        "log_freq": -2.3779
+      },
+      {
+        "rank": 34,
+        "word": "from",
+        "count": 5696,
+        "freq": 0.0041609,
+        "log_rank": 1.5315,
+        "log_freq": -2.3808
+      },
+      {
+        "rank": 35,
+        "word": "have",
+        "count": 5195,
+        "freq": 0.00379492,
+        "log_rank": 1.5441,
+        "log_freq": -2.4208
+      },
+      {
+        "rank": 36,
+        "word": "mendicants",
+        "count": 5190,
+        "freq": 0.00379127,
+        "log_rank": 1.5563,
+        "log_freq": -2.4212
+      },
+      {
+        "rank": 37,
+        "word": "said",
+        "count": 5115,
+        "freq": 0.00373648,
+        "log_rank": 1.5682,
+        "log_freq": -2.4275
+      },
+      {
+        "rank": 38,
+        "word": "so",
+        "count": 5111,
+        "freq": 0.00373356,
+        "log_rank": 1.5798,
+        "log_freq": -2.4279
+      },
+      {
+        "rank": 39,
+        "word": "then",
+        "count": 5090,
+        "freq": 0.00371822,
+        "log_rank": 1.5911,
+        "log_freq": -2.4297
+      },
+      {
+        "rank": 40,
+        "word": "was",
+        "count": 4884,
+        "freq": 0.00356774,
+        "log_rank": 1.6021,
+        "log_freq": -2.4476
+      },
+      {
+        "rank": 41,
+        "word": "an",
+        "count": 4843,
+        "freq": 0.00353779,
+        "log_rank": 1.6128,
+        "log_freq": -2.4513
+      },
+      {
+        "rank": 42,
+        "word": "at",
+        "count": 4803,
+        "freq": 0.00350857,
+        "log_rank": 1.6232,
+        "log_freq": -2.4549
+      },
+      {
+        "rank": 43,
+        "word": "but",
+        "count": 4757,
+        "freq": 0.00347496,
+        "log_rank": 1.6335,
+        "log_freq": -2.459
+      },
+      {
+        "rank": 44,
+        "word": "how",
+        "count": 4446,
+        "freq": 0.00324778,
+        "log_rank": 1.6435,
+        "log_freq": -2.4884
+      },
+      {
+        "rank": 45,
+        "word": "right",
+        "count": 4128,
+        "freq": 0.00301548,
+        "log_rank": 1.6532,
+        "log_freq": -2.5206
+      },
+      {
+        "rank": 46,
+        "word": "them",
+        "count": 4074,
+        "freq": 0.00297604,
+        "log_rank": 1.6628,
+        "log_freq": -2.5264
+      },
+      {
+        "rank": 47,
+        "word": "should",
+        "count": 3573,
+        "freq": 0.00261006,
+        "log_rank": 1.6721,
+        "log_freq": -2.5833
+      },
+      {
+        "rank": 48,
+        "word": "no",
+        "count": 3508,
+        "freq": 0.00256258,
+        "log_rank": 1.6812,
+        "log_freq": -2.5913
+      },
+      {
+        "rank": 49,
+        "word": "if",
+        "count": 3451,
+        "freq": 0.00252094,
+        "log_rank": 1.6902,
+        "log_freq": -2.5984
+      },
+      {
+        "rank": 50,
+        "word": "do",
+        "count": 3420,
+        "freq": 0.00249829,
+        "log_rank": 1.699,
+        "log_freq": -2.6024
+      },
+      {
+        "rank": 51,
+        "word": "his",
+        "count": 3382,
+        "freq": 0.00247053,
+        "log_rank": 1.7076,
+        "log_freq": -2.6072
+      },
+      {
+        "rank": 52,
+        "word": "will",
+        "count": 3322,
+        "freq": 0.0024267,
+        "log_rank": 1.716,
+        "log_freq": -2.615
+      },
+      {
+        "rank": 53,
+        "word": "my",
+        "count": 3320,
+        "freq": 0.00242524,
+        "log_rank": 1.7243,
+        "log_freq": -2.6152
+      },
+      {
+        "rank": 54,
+        "word": "time",
+        "count": 3248,
+        "freq": 0.00237265,
+        "log_rank": 1.7324,
+        "log_freq": -2.6248
+      },
+      {
+        "rank": 55,
+        "word": "teaching",
+        "count": 3238,
+        "freq": 0.00236534,
+        "log_rank": 1.7404,
+        "log_freq": -2.6261
+      },
+      {
+        "rank": 56,
+        "word": "those",
+        "count": 3209,
+        "freq": 0.00234416,
+        "log_rank": 1.7482,
+        "log_freq": -2.63
+      },
+      {
+        "rank": 57,
+        "word": "like",
+        "count": 3203,
+        "freq": 0.00233978,
+        "log_rank": 1.7559,
+        "log_freq": -2.6308
+      },
+      {
+        "rank": 58,
+        "word": "sir",
+        "count": 3200,
+        "freq": 0.00233758,
+        "log_rank": 1.7634,
+        "log_freq": -2.6312
+      },
+      {
+        "rank": 59,
+        "word": "good",
+        "count": 3195,
+        "freq": 0.00233393,
+        "log_rank": 1.7709,
+        "log_freq": -2.6319
+      },
+      {
+        "rank": 60,
+        "word": "body",
+        "count": 3179,
+        "freq": 0.00232224,
+        "log_rank": 1.7782,
+        "log_freq": -2.6341
+      },
+      {
+        "rank": 61,
+        "word": "suffering",
+        "count": 3165,
+        "freq": 0.00231202,
+        "log_rank": 1.7853,
+        "log_freq": -2.636
+      },
+      {
+        "rank": 62,
+        "word": "life",
+        "count": 3102,
+        "freq": 0.002266,
+        "log_rank": 1.7924,
+        "log_freq": -2.6447
+      },
+      {
+        "rank": 63,
+        "word": "things",
+        "count": 2965,
+        "freq": 0.00216592,
+        "log_rank": 1.7993,
+        "log_freq": -2.6644
+      },
+      {
+        "rank": 64,
+        "word": "way",
+        "count": 2953,
+        "freq": 0.00215715,
+        "log_rank": 1.8062,
+        "log_freq": -2.6661
+      },
+      {
+        "rank": 65,
+        "word": "four",
+        "count": 2946,
+        "freq": 0.00215204,
+        "log_rank": 1.8129,
+        "log_freq": -2.6672
+      },
+      {
+        "rank": 66,
+        "word": "five",
+        "count": 2879,
+        "freq": 0.00210309,
+        "log_rank": 1.8195,
+        "log_freq": -2.6771
+      },
+      {
+        "rank": 67,
+        "word": "all",
+        "count": 2841,
+        "freq": 0.00207534,
+        "log_rank": 1.8261,
+        "log_freq": -2.6829
+      },
+      {
+        "rank": 68,
+        "word": "world",
+        "count": 2642,
+        "freq": 0.00192997,
+        "log_rank": 1.8325,
+        "log_freq": -2.7145
+      },
+      {
+        "rank": 69,
+        "word": "him",
+        "count": 2633,
+        "freq": 0.00192339,
+        "log_rank": 1.8388,
+        "log_freq": -2.7159
+      },
+      {
+        "rank": 70,
+        "word": "such",
+        "count": 2610,
+        "freq": 0.00190659,
+        "log_rank": 1.8451,
+        "log_freq": -2.7197
+      },
+      {
+        "rank": 71,
+        "word": "qualities",
+        "count": 2595,
+        "freq": 0.00189563,
+        "log_rank": 1.8513,
+        "log_freq": -2.7222
+      },
+      {
+        "rank": 72,
+        "word": "noble",
+        "count": 2504,
+        "freq": 0.00182916,
+        "log_rank": 1.8573,
+        "log_freq": -2.7377
+      },
+      {
+        "rank": 73,
+        "word": "me",
+        "count": 2503,
+        "freq": 0.00182843,
+        "log_rank": 1.8633,
+        "log_freq": -2.7379
+      },
+      {
+        "rank": 74,
+        "word": "say",
+        "count": 2405,
+        "freq": 0.00175684,
+        "log_rank": 1.8692,
+        "log_freq": -2.7553
+      },
+      {
+        "rank": 75,
+        "word": "realized",
+        "count": 2343,
+        "freq": 0.00171155,
+        "log_rank": 1.8751,
+        "log_freq": -2.7666
+      },
+      {
+        "rank": 76,
+        "word": "consciousness",
+        "count": 2303,
+        "freq": 0.00168233,
+        "log_rank": 1.8808,
+        "log_freq": -2.7741
+      },
+      {
+        "rank": 77,
+        "word": "after",
+        "count": 2284,
+        "freq": 0.00166845,
+        "log_rank": 1.8865,
+        "log_freq": -2.7777
+      },
+      {
+        "rank": 78,
+        "word": "see",
+        "count": 2280,
+        "freq": 0.00166553,
+        "log_rank": 1.8921,
+        "log_freq": -2.7784
+      },
+      {
+        "rank": 79,
+        "word": "three",
+        "count": 2257,
+        "freq": 0.00164873,
+        "log_rank": 1.8976,
+        "log_freq": -2.7829
+      },
+      {
+        "rank": 80,
+        "word": "well",
+        "count": 2217,
+        "freq": 0.00161951,
+        "log_rank": 1.9031,
+        "log_freq": -2.7906
+      },
+      {
+        "rank": 81,
+        "word": "would",
+        "count": 2183,
+        "freq": 0.00159467,
+        "log_rank": 1.9085,
+        "log_freq": -2.7973
+      },
+      {
+        "rank": 82,
+        "word": "why",
+        "count": 2157,
+        "freq": 0.00157568,
+        "log_rank": 1.9138,
+        "log_freq": -2.8025
+      },
+      {
+        "rank": 83,
+        "word": "person",
+        "count": 2113,
+        "freq": 0.00154354,
+        "log_rank": 1.9191,
+        "log_freq": -2.8115
+      },
+      {
+        "rank": 84,
+        "word": "death",
+        "count": 2083,
+        "freq": 0.00152162,
+        "log_rank": 1.9243,
+        "log_freq": -2.8177
+      },
+      {
+        "rank": 85,
+        "word": "gods",
+        "count": 2074,
+        "freq": 0.00151505,
+        "log_rank": 1.9294,
+        "log_freq": -2.8196
+      },
+      {
+        "rank": 86,
+        "word": "perception",
+        "count": 2021,
+        "freq": 0.00147633,
+        "log_rank": 1.9345,
+        "log_freq": -2.8308
+      },
+      {
+        "rank": 87,
+        "word": "were",
+        "count": 2015,
+        "freq": 0.00147195,
+        "log_rank": 1.9395,
+        "log_freq": -2.8321
+      },
+      {
+        "rank": 88,
+        "word": "practice",
+        "count": 2009,
+        "freq": 0.00146756,
+        "log_rank": 1.9445,
+        "log_freq": -2.8334
+      },
+      {
+        "rank": 89,
+        "word": "your",
+        "count": 1975,
+        "freq": 0.00144273,
+        "log_rank": 1.9494,
+        "log_freq": -2.8408
+      },
+      {
+        "rank": 90,
+        "word": "out",
+        "count": 1944,
+        "freq": 0.00142008,
+        "log_rank": 1.9542,
+        "log_freq": -2.8477
+      },
+      {
+        "rank": 91,
+        "word": "understand",
+        "count": 1939,
+        "freq": 0.00141643,
+        "log_rank": 1.959,
+        "log_freq": -2.8488
+      },
+      {
+        "rank": 92,
+        "word": "had",
+        "count": 1862,
+        "freq": 0.00136018,
+        "log_rank": 1.9638,
+        "log_freq": -2.8664
+      },
+      {
+        "rank": 93,
+        "word": "which",
+        "count": 1857,
+        "freq": 0.00135653,
+        "log_rank": 1.9685,
+        "log_freq": -2.8676
+      },
+      {
+        "rank": 94,
+        "word": "bad",
+        "count": 1853,
+        "freq": 0.00135361,
+        "log_rank": 1.9731,
+        "log_freq": -2.8685
+      },
+      {
+        "rank": 95,
+        "word": "immersion",
+        "count": 1849,
+        "freq": 0.00135069,
+        "log_rank": 1.9777,
+        "log_freq": -2.8694
+      },
+      {
+        "rank": 96,
+        "word": "down",
+        "count": 1847,
+        "freq": 0.00134922,
+        "log_rank": 1.9823,
+        "log_freq": -2.8699
+      },
+      {
+        "rank": 97,
+        "word": "can",
+        "count": 1800,
+        "freq": 0.00131489,
+        "log_rank": 1.9868,
+        "log_freq": -2.8811
+      },
+      {
+        "rank": 98,
+        "word": "same",
+        "count": 1797,
+        "freq": 0.0013127,
+        "log_rank": 1.9912,
+        "log_freq": -2.8818
+      },
+      {
+        "rank": 99,
+        "word": "venerable",
+        "count": 1795,
+        "freq": 0.00131124,
+        "log_rank": 1.9956,
+        "log_freq": -2.8823
+      },
+      {
+        "rank": 100,
+        "word": "away",
+        "count": 1795,
+        "freq": 0.00131124,
+        "log_rank": 2.0,
+        "log_freq": -2.8823
+      },
+      {
+        "rank": 101,
+        "word": "reborn",
+        "count": 1790,
+        "freq": 0.00130759,
+        "log_rank": 2.0043,
+        "log_freq": -2.8835
+      },
+      {
+        "rank": 102,
+        "word": "someone",
+        "count": 1782,
+        "freq": 0.00130174,
+        "log_rank": 2.0086,
+        "log_freq": -2.8855
+      },
+      {
+        "rank": 103,
+        "word": "worthy",
+        "count": 1771,
+        "freq": 0.00129371,
+        "log_rank": 2.0128,
+        "log_freq": -2.8882
+      },
+      {
+        "rank": 104,
+        "word": "view",
+        "count": 1770,
+        "freq": 0.00129298,
+        "log_rank": 2.017,
+        "log_freq": -2.8884
+      },
+      {
+        "rank": 105,
+        "word": "feeling",
+        "count": 1767,
+        "freq": 0.00129078,
+        "log_rank": 2.0212,
+        "log_freq": -2.8891
+      },
+      {
+        "rank": 106,
+        "word": "wisdom",
+        "count": 1764,
+        "freq": 0.00128859,
+        "log_rank": 2.0253,
+        "log_freq": -2.8899
+      },
+      {
+        "rank": 107,
+        "word": "go",
+        "count": 1763,
+        "freq": 0.00128786,
+        "log_rank": 2.0294,
+        "log_freq": -2.8901
+      },
+      {
+        "rank": 108,
+        "word": "cessation",
+        "count": 1752,
+        "freq": 0.00127983,
+        "log_rank": 2.0334,
+        "log_freq": -2.8928
+      },
+      {
+        "rank": 109,
+        "word": "went",
+        "count": 1748,
+        "freq": 0.00127691,
+        "log_rank": 2.0374,
+        "log_freq": -2.8938
+      },
+      {
+        "rank": 110,
+        "word": "give",
+        "count": 1733,
+        "freq": 0.00126595,
+        "log_rank": 2.0414,
+        "log_freq": -2.8976
+      },
+      {
+        "rank": 111,
+        "word": "mindfulness",
+        "count": 1713,
+        "freq": 0.00125134,
+        "log_rank": 2.0453,
+        "log_freq": -2.9026
+      },
+      {
+        "rank": 112,
+        "word": "know",
+        "count": 1705,
+        "freq": 0.00124549,
+        "log_rank": 2.0492,
+        "log_freq": -2.9047
+      },
+      {
+        "rank": 113,
+        "word": "form",
+        "count": 1701,
+        "freq": 0.00124257,
+        "log_rank": 2.0531,
+        "log_freq": -2.9057
+      },
+      {
+        "rank": 114,
+        "word": "self",
+        "count": 1701,
+        "freq": 0.00124257,
+        "log_rank": 2.0569,
+        "log_freq": -2.9057
+      },
+      {
+        "rank": 115,
+        "word": "called",
+        "count": 1693,
+        "freq": 0.00123673,
+        "log_rank": 2.0607,
+        "log_freq": -2.9077
+      },
+      {
+        "rank": 116,
+        "word": "having",
+        "count": 1676,
+        "freq": 0.00122431,
+        "log_rank": 2.0645,
+        "log_freq": -2.9121
+      },
+      {
+        "rank": 117,
+        "word": "does",
+        "count": 1655,
+        "freq": 0.00120897,
+        "log_rank": 2.0682,
+        "log_freq": -2.9176
+      },
+      {
+        "rank": 118,
+        "word": "its",
+        "count": 1620,
+        "freq": 0.0011834,
+        "log_rank": 2.0719,
+        "log_freq": -2.9269
+      },
+      {
+        "rank": 119,
+        "word": "place",
+        "count": 1584,
+        "freq": 0.0011571,
+        "log_rank": 2.0755,
+        "log_freq": -2.9366
+      },
+      {
+        "rank": 120,
+        "word": "brahmins",
+        "count": 1581,
+        "freq": 0.00115491,
+        "log_rank": 2.0792,
+        "log_freq": -2.9375
+      },
+      {
+        "rank": 121,
+        "word": "because",
+        "count": 1571,
+        "freq": 0.00114761,
+        "log_rank": 2.0828,
+        "log_freq": -2.9402
+      },
+      {
+        "rank": 122,
+        "word": "individual",
+        "count": 1542,
+        "freq": 0.00112642,
+        "log_rank": 2.0864,
+        "log_freq": -2.9483
+      },
+      {
+        "rank": 123,
+        "word": "we",
+        "count": 1535,
+        "freq": 0.00112131,
+        "log_rank": 2.0899,
+        "log_freq": -2.9503
+      },
+      {
+        "rank": 124,
+        "word": "wrong",
+        "count": 1520,
+        "freq": 0.00111035,
+        "log_rank": 2.0934,
+        "log_freq": -2.9545
+      },
+      {
+        "rank": 125,
+        "word": "some",
+        "count": 1514,
+        "freq": 0.00110597,
+        "log_rank": 2.0969,
+        "log_freq": -2.9563
+      },
+      {
+        "rank": 126,
+        "word": "without",
+        "count": 1509,
+        "freq": 0.00110232,
+        "log_rank": 2.1004,
+        "log_freq": -2.9577
+      },
+      {
+        "rank": 127,
+        "word": "knowledge",
+        "count": 1501,
+        "freq": 0.00109647,
+        "log_rank": 2.1038,
+        "log_freq": -2.96
+      },
+      {
+        "rank": 128,
+        "word": "beings",
+        "count": 1500,
+        "freq": 0.00109574,
+        "log_rank": 2.1072,
+        "log_freq": -2.9603
+      },
+      {
+        "rank": 129,
+        "word": "been",
+        "count": 1499,
+        "freq": 0.00109501,
+        "log_rank": 2.1106,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 130,
+        "word": "gotama",
+        "count": 1476,
+        "freq": 0.00107821,
+        "log_rank": 2.1139,
+        "log_freq": -2.9673
+      },
+      {
+        "rank": 131,
+        "word": "spiritual",
+        "count": 1475,
+        "freq": 0.00107748,
+        "log_rank": 2.1173,
+        "log_freq": -2.9676
+      },
+      {
+        "rank": 132,
+        "word": "king",
+        "count": 1453,
+        "freq": 0.00106141,
+        "log_rank": 2.1206,
+        "log_freq": -2.9741
+      },
+      {
+        "rank": 133,
+        "word": "brahmin",
+        "count": 1451,
+        "freq": 0.00105995,
+        "log_rank": 2.1239,
+        "log_freq": -2.9747
+      },
+      {
+        "rank": 134,
+        "word": "heard",
+        "count": 1448,
+        "freq": 0.00105776,
+        "log_rank": 2.1271,
+        "log_freq": -2.9756
+      },
+      {
+        "rank": 135,
+        "word": "come",
+        "count": 1446,
+        "freq": 0.0010563,
+        "log_rank": 2.1303,
+        "log_freq": -2.9762
+      },
+      {
+        "rank": 136,
+        "word": "path",
+        "count": 1434,
+        "freq": 0.00104753,
+        "log_rank": 2.1335,
+        "log_freq": -2.9798
+      },
+      {
+        "rank": 137,
+        "word": "many",
+        "count": 1407,
+        "freq": 0.00102781,
+        "log_rank": 2.1367,
+        "log_freq": -2.9881
+      },
+      {
+        "rank": 138,
+        "word": "kinds",
+        "count": 1400,
+        "freq": 0.00102269,
+        "log_rank": 2.1399,
+        "log_freq": -2.9903
+      },
+      {
+        "rank": 139,
+        "word": "ascetic",
+        "count": 1394,
+        "freq": 0.00101831,
+        "log_rank": 2.143,
+        "log_freq": -2.9921
+      },
+      {
+        "rank": 140,
+        "word": "now",
+        "count": 1381,
+        "freq": 0.00100881,
+        "log_rank": 2.1461,
+        "log_freq": -2.9962
+      },
+      {
+        "rank": 141,
+        "word": "sensual",
+        "count": 1376,
+        "freq": 0.00100516,
+        "log_rank": 2.1492,
+        "log_freq": -2.9978
+      },
+      {
+        "rank": 142,
+        "word": "heart",
+        "count": 1363,
+        "freq": 0.00099566,
+        "log_rank": 2.1523,
+        "log_freq": -3.0019
+      },
+      {
+        "rank": 143,
+        "word": "think",
+        "count": 1363,
+        "freq": 0.00099566,
+        "log_rank": 2.1553,
+        "log_freq": -3.0019
+      },
+      {
+        "rank": 144,
+        "word": "nor",
+        "count": 1359,
+        "freq": 0.00099274,
+        "log_rank": 2.1584,
+        "log_freq": -3.0032
+      },
+      {
+        "rank": 145,
+        "word": "about",
+        "count": 1345,
+        "freq": 0.00098252,
+        "log_rank": 2.1614,
+        "log_freq": -3.0077
+      },
+      {
+        "rank": 146,
+        "word": "very",
+        "count": 1342,
+        "freq": 0.00098032,
+        "log_rank": 2.1644,
+        "log_freq": -3.0086
+      },
+      {
+        "rank": 147,
+        "word": "may",
+        "count": 1336,
+        "freq": 0.00097594,
+        "log_rank": 2.1673,
+        "log_freq": -3.0106
+      },
+      {
+        "rank": 148,
+        "word": "live",
+        "count": 1297,
+        "freq": 0.00094745,
+        "log_rank": 2.1703,
+        "log_freq": -3.0234
+      },
+      {
+        "rank": 149,
+        "word": "freedom",
+        "count": 1293,
+        "freq": 0.00094453,
+        "log_rank": 2.1732,
+        "log_freq": -3.0248
+      },
+      {
+        "rank": 150,
+        "word": "being",
+        "count": 1293,
+        "freq": 0.00094453,
+        "log_rank": 2.1761,
+        "log_freq": -3.0248
+      },
+      {
+        "rank": 151,
+        "word": "side",
+        "count": 1292,
+        "freq": 0.0009438,
+        "log_rank": 2.179,
+        "log_freq": -3.0251
+      },
+      {
+        "rank": 152,
+        "word": "too",
+        "count": 1286,
+        "freq": 0.00093942,
+        "log_rank": 2.1818,
+        "log_freq": -3.0271
+      },
+      {
+        "rank": 153,
+        "word": "people",
+        "count": 1279,
+        "freq": 0.0009343,
+        "log_rank": 2.1847,
+        "log_freq": -3.0295
+      },
+      {
+        "rank": 154,
+        "word": "speech",
+        "count": 1273,
+        "freq": 0.00092992,
+        "log_rank": 2.1875,
+        "log_freq": -3.0316
+      },
+      {
+        "rank": 155,
+        "word": "other",
+        "count": 1272,
+        "freq": 0.00092919,
+        "log_rank": 2.1903,
+        "log_freq": -3.0319
+      },
+      {
+        "rank": 156,
+        "word": "two",
+        "count": 1271,
+        "freq": 0.00092846,
+        "log_rank": 2.1931,
+        "log_freq": -3.0322
+      },
+      {
+        "rank": 157,
+        "word": "own",
+        "count": 1262,
+        "freq": 0.00092188,
+        "log_rank": 2.1959,
+        "log_freq": -3.0353
+      },
+      {
+        "rank": 158,
+        "word": "others",
+        "count": 1251,
+        "freq": 0.00091385,
+        "log_rank": 2.1987,
+        "log_freq": -3.0391
+      },
+      {
+        "rank": 159,
+        "word": "given",
+        "count": 1228,
+        "freq": 0.00089705,
+        "log_rank": 2.2014,
+        "log_freq": -3.0472
+      },
+      {
+        "rank": 160,
+        "word": "ānanda",
+        "count": 1196,
+        "freq": 0.00087367,
+        "log_rank": 2.2041,
+        "log_freq": -3.0587
+      },
+      {
+        "rank": 161,
+        "word": "sāvatthī",
+        "count": 1194,
+        "freq": 0.00087221,
+        "log_rank": 2.2068,
+        "log_freq": -3.0594
+      },
+      {
+        "rank": 162,
+        "word": "forth",
+        "count": 1191,
+        "freq": 0.00087002,
+        "log_rank": 2.2095,
+        "log_freq": -3.0605
+      },
+      {
+        "rank": 163,
+        "word": "happiness",
+        "count": 1190,
+        "freq": 0.00086929,
+        "log_rank": 2.2122,
+        "log_freq": -3.0608
+      },
+      {
+        "rank": 164,
+        "word": "both",
+        "count": 1183,
+        "freq": 0.00086418,
+        "log_rank": 2.2148,
+        "log_freq": -3.0634
+      },
+      {
+        "rank": 165,
+        "word": "long",
+        "count": 1176,
+        "freq": 0.00085906,
+        "log_rank": 2.2175,
+        "log_freq": -3.066
+      },
+      {
+        "rank": 166,
+        "word": "true",
+        "count": 1176,
+        "freq": 0.00085906,
+        "log_rank": 2.2201,
+        "log_freq": -3.066
+      },
+      {
+        "rank": 167,
+        "word": "defilements",
+        "count": 1175,
+        "freq": 0.00085833,
+        "log_rank": 2.2227,
+        "log_freq": -3.0663
+      },
+      {
+        "rank": 168,
+        "word": "even",
+        "count": 1173,
+        "freq": 0.00085687,
+        "log_rank": 2.2253,
+        "log_freq": -3.0671
+      },
+      {
+        "rank": 169,
+        "word": "great",
+        "count": 1164,
+        "freq": 0.0008503,
+        "log_rank": 2.2279,
+        "log_freq": -3.0704
+      },
+      {
+        "rank": 170,
+        "word": "awakening",
+        "count": 1159,
+        "freq": 0.00084664,
+        "log_rank": 2.2304,
+        "log_freq": -3.0723
+      },
+      {
+        "rank": 171,
+        "word": "themselves",
+        "count": 1157,
+        "freq": 0.00084518,
+        "log_rank": 2.233,
+        "log_freq": -3.073
+      },
+      {
+        "rank": 172,
+        "word": "get",
+        "count": 1152,
+        "freq": 0.00084153,
+        "log_rank": 2.2355,
+        "log_freq": -3.0749
+      },
+      {
+        "rank": 173,
+        "word": "while",
+        "count": 1146,
+        "freq": 0.00083715,
+        "log_rank": 2.238,
+        "log_freq": -3.0772
+      },
+      {
+        "rank": 174,
+        "word": "take",
+        "count": 1142,
+        "freq": 0.00083423,
+        "log_rank": 2.2405,
+        "log_freq": -3.0787
+      },
+      {
+        "rank": 175,
+        "word": "ascetics",
+        "count": 1138,
+        "freq": 0.0008313,
+        "log_rank": 2.243,
+        "log_freq": -3.0802
+      },
+      {
+        "rank": 176,
+        "word": "living",
+        "count": 1133,
+        "freq": 0.00082765,
+        "log_rank": 2.2455,
+        "log_freq": -3.0822
+      },
+      {
+        "rank": 177,
+        "word": "desire",
+        "count": 1130,
+        "freq": 0.00082546,
+        "log_rank": 2.248,
+        "log_freq": -3.0833
+      },
+      {
+        "rank": 178,
+        "word": "greed",
+        "count": 1126,
+        "freq": 0.00082254,
+        "log_rank": 2.2504,
+        "log_freq": -3.0848
+      },
+      {
+        "rank": 179,
+        "word": "deeds",
+        "count": 1117,
+        "freq": 0.00081596,
+        "log_rank": 2.2529,
+        "log_freq": -3.0883
+      },
+      {
+        "rank": 180,
+        "word": "training",
+        "count": 1113,
+        "freq": 0.00081304,
+        "log_rank": 2.2553,
+        "log_freq": -3.0899
+      },
+      {
+        "rank": 181,
+        "word": "saṅgha",
+        "count": 1109,
+        "freq": 0.00081012,
+        "log_rank": 2.2577,
+        "log_freq": -3.0915
+      },
+      {
+        "rank": 182,
+        "word": "unskillful",
+        "count": 1106,
+        "freq": 0.00080793,
+        "log_rank": 2.2601,
+        "log_freq": -3.0926
+      },
+      {
+        "rank": 183,
+        "word": "grasping",
+        "count": 1102,
+        "freq": 0.00080501,
+        "log_rank": 2.2625,
+        "log_freq": -3.0942
+      },
+      {
+        "rank": 184,
+        "word": "make",
+        "count": 1101,
+        "freq": 0.00080427,
+        "log_rank": 2.2648,
+        "log_freq": -3.0946
+      },
+      {
+        "rank": 185,
+        "word": "skillful",
+        "count": 1096,
+        "freq": 0.00080062,
+        "log_rank": 2.2672,
+        "log_freq": -3.0966
+      },
+      {
+        "rank": 186,
+        "word": "pleasure",
+        "count": 1096,
+        "freq": 0.00080062,
+        "log_rank": 2.2695,
+        "log_freq": -3.0966
+      },
+      {
+        "rank": 187,
+        "word": "pain",
+        "count": 1094,
+        "freq": 0.00079916,
+        "log_rank": 2.2718,
+        "log_freq": -3.0974
+      },
+      {
+        "rank": 188,
+        "word": "seven",
+        "count": 1088,
+        "freq": 0.00079478,
+        "log_rank": 2.2742,
+        "log_freq": -3.0998
+      },
+      {
+        "rank": 189,
+        "word": "where",
+        "count": 1086,
+        "freq": 0.00079332,
+        "log_rank": 2.2765,
+        "log_freq": -3.1006
+      },
+      {
+        "rank": 190,
+        "word": "sat",
+        "count": 1076,
+        "freq": 0.00078601,
+        "log_rank": 2.2788,
+        "log_freq": -3.1046
+      },
+      {
+        "rank": 191,
+        "word": "rebirth",
+        "count": 1075,
+        "freq": 0.00078528,
+        "log_rank": 2.281,
+        "log_freq": -3.105
+      },
+      {
+        "rank": 192,
+        "word": "impermanent",
+        "count": 1073,
+        "freq": 0.00078382,
+        "log_rank": 2.2833,
+        "log_freq": -3.1058
+      },
+      {
+        "rank": 193,
+        "word": "full",
+        "count": 1067,
+        "freq": 0.00077944,
+        "log_rank": 2.2856,
+        "log_freq": -3.1082
+      },
+      {
+        "rank": 194,
+        "word": "any",
+        "count": 1066,
+        "freq": 0.00077871,
+        "log_rank": 2.2878,
+        "log_freq": -3.1086
+      },
+      {
+        "rank": 195,
+        "word": "giving",
+        "count": 1065,
+        "freq": 0.00077798,
+        "log_rank": 2.29,
+        "log_freq": -3.109
+      },
+      {
+        "rank": 196,
+        "word": "disciple",
+        "count": 1065,
+        "freq": 0.00077798,
+        "log_rank": 2.2923,
+        "log_freq": -3.109
+      },
+      {
+        "rank": 197,
+        "word": "another",
+        "count": 1058,
+        "freq": 0.00077286,
+        "log_rank": 2.2945,
+        "log_freq": -3.1119
+      },
+      {
+        "rank": 198,
+        "word": "developed",
+        "count": 1058,
+        "freq": 0.00077286,
+        "log_rank": 2.2967,
+        "log_freq": -3.1119
+      },
+      {
+        "rank": 199,
+        "word": "sentient",
+        "count": 1057,
+        "freq": 0.00077213,
+        "log_rank": 2.2989,
+        "log_freq": -3.1123
+      },
+      {
+        "rank": 200,
+        "word": "staying",
+        "count": 1051,
+        "freq": 0.00076775,
+        "log_rank": 2.301,
+        "log_freq": -3.1148
+      }
+    ],
+    "pitaka_vinaya_theravada": [
+      {
+        "rank": 1,
+        "word": "the",
+        "count": 69963,
+        "freq": 0.06807534,
+        "log_rank": 0.0,
+        "log_freq": -1.167
+      },
+      {
+        "rank": 2,
+        "word": "of",
+        "count": 32320,
+        "freq": 0.03144798,
+        "log_rank": 0.301,
+        "log_freq": -1.5024
+      },
+      {
+        "rank": 3,
+        "word": "and",
+        "count": 28500,
+        "freq": 0.02773105,
+        "log_rank": 0.4771,
+        "log_freq": -1.557
+      },
+      {
+        "rank": 4,
+        "word": "is",
+        "count": 23263,
+        "freq": 0.02263534,
+        "log_rank": 0.6021,
+        "log_freq": -1.6452
+      },
+      {
+        "rank": 5,
+        "word": "to",
+        "count": 22919,
+        "freq": 0.02230063,
+        "log_rank": 0.699,
+        "log_freq": -1.6517
+      },
+      {
+        "rank": 6,
+        "word": "he",
+        "count": 20392,
+        "freq": 0.01984181,
+        "log_rank": 0.7782,
+        "log_freq": -1.7024
+      },
+      {
+        "rank": 7,
+        "word": "it",
+        "count": 16188,
+        "freq": 0.01575123,
+        "log_rank": 0.8451,
+        "log_freq": -1.8027
+      },
+      {
+        "rank": 8,
+        "word": "in",
+        "count": 14603,
+        "freq": 0.014209,
+        "log_rank": 0.9031,
+        "log_freq": -1.8474
+      },
+      {
+        "rank": 9,
+        "word": "for",
+        "count": 12084,
+        "freq": 0.01175796,
+        "log_rank": 0.9542,
+        "log_freq": -1.9297
+      },
+      {
+        "rank": 10,
+        "word": "an",
+        "count": 11998,
+        "freq": 0.01167428,
+        "log_rank": 1.0,
+        "log_freq": -1.9328
+      },
+      {
+        "rank": 11,
+        "word": "if",
+        "count": 10625,
+        "freq": 0.01033833,
+        "log_rank": 1.0414,
+        "log_freq": -1.9855
+      },
+      {
+        "rank": 12,
+        "word": "that",
+        "count": 10244,
+        "freq": 0.00996761,
+        "log_rank": 1.0792,
+        "log_freq": -2.0014
+      },
+      {
+        "rank": 13,
+        "word": "one",
+        "count": 10050,
+        "freq": 0.00977884,
+        "log_rank": 1.1139,
+        "log_freq": -2.0097
+      },
+      {
+        "rank": 14,
+        "word": "with",
+        "count": 8872,
+        "freq": 0.00863263,
+        "log_rank": 1.1461,
+        "log_freq": -2.0639
+      },
+      {
+        "rank": 15,
+        "word": "not",
+        "count": 8812,
+        "freq": 0.00857424,
+        "log_rank": 1.1761,
+        "log_freq": -2.0668
+      },
+      {
+        "rank": 16,
+        "word": "this",
+        "count": 8640,
+        "freq": 0.00840689,
+        "log_rank": 1.2041,
+        "log_freq": -2.0754
+      },
+      {
+        "rank": 17,
+        "word": "monks",
+        "count": 7695,
+        "freq": 0.00748738,
+        "log_rank": 1.2304,
+        "log_freq": -2.1257
+      },
+      {
+        "rank": 18,
+        "word": "there",
+        "count": 7404,
+        "freq": 0.00720423,
+        "log_rank": 1.2553,
+        "log_freq": -2.1424
+      },
+      {
+        "rank": 19,
+        "word": "monk",
+        "count": 7346,
+        "freq": 0.0071478,
+        "log_rank": 1.2788,
+        "log_freq": -2.1458
+      },
+      {
+        "rank": 20,
+        "word": "on",
+        "count": 7123,
+        "freq": 0.00693082,
+        "log_rank": 1.301,
+        "log_freq": -2.1592
+      },
+      {
+        "rank": 21,
+        "word": "who",
+        "count": 6429,
+        "freq": 0.00625554,
+        "log_rank": 1.3222,
+        "log_freq": -2.2037
+      },
+      {
+        "rank": 22,
+        "word": "has",
+        "count": 6351,
+        "freq": 0.00617964,
+        "log_rank": 1.3424,
+        "log_freq": -2.209
+      },
+      {
+        "rank": 23,
+        "word": "as",
+        "count": 6218,
+        "freq": 0.00605023,
+        "log_rank": 1.3617,
+        "log_freq": -2.2182
+      },
+      {
+        "rank": 24,
+        "word": "should",
+        "count": 6147,
+        "freq": 0.00598115,
+        "log_rank": 1.3802,
+        "log_freq": -2.2232
+      },
+      {
+        "rank": 25,
+        "word": "are",
+        "count": 6145,
+        "freq": 0.0059792,
+        "log_rank": 1.3979,
+        "log_freq": -2.2234
+      },
+      {
+        "rank": 26,
+        "word": "or",
+        "count": 6057,
+        "freq": 0.00589358,
+        "log_rank": 1.415,
+        "log_freq": -2.2296
+      },
+      {
+        "rank": 27,
+        "word": "they",
+        "count": 5846,
+        "freq": 0.00568827,
+        "log_rank": 1.4314,
+        "log_freq": -2.245
+      },
+      {
+        "rank": 28,
+        "word": "be",
+        "count": 5831,
+        "freq": 0.00567367,
+        "log_rank": 1.4472,
+        "log_freq": -2.2461
+      },
+      {
+        "rank": 29,
+        "word": "you",
+        "count": 5818,
+        "freq": 0.00566103,
+        "log_rank": 1.4624,
+        "log_freq": -2.2471
+      },
+      {
+        "rank": 30,
+        "word": "by",
+        "count": 5069,
+        "freq": 0.00493223,
+        "log_rank": 1.4771,
+        "log_freq": -2.307
+      },
+      {
+        "rank": 31,
+        "word": "from",
+        "count": 5046,
+        "freq": 0.00490985,
+        "log_rank": 1.4914,
+        "log_freq": -2.3089
+      },
+      {
+        "rank": 32,
+        "word": "at",
+        "count": 4857,
+        "freq": 0.00472595,
+        "log_rank": 1.5051,
+        "log_freq": -2.3255
+      },
+      {
+        "rank": 33,
+        "word": "sangha",
+        "count": 4788,
+        "freq": 0.00465882,
+        "log_rank": 1.5185,
+        "log_freq": -2.3317
+      },
+      {
+        "rank": 34,
+        "word": "when",
+        "count": 4755,
+        "freq": 0.00462671,
+        "log_rank": 1.5315,
+        "log_freq": -2.3347
+      },
+      {
+        "rank": 35,
+        "word": "commits",
+        "count": 4675,
+        "freq": 0.00454886,
+        "log_rank": 1.5441,
+        "log_freq": -2.3421
+      },
+      {
+        "rank": 36,
+        "word": "then",
+        "count": 4483,
+        "freq": 0.00436204,
+        "log_rank": 1.5563,
+        "log_freq": -2.3603
+      },
+      {
+        "rank": 37,
+        "word": "entailing",
+        "count": 4354,
+        "freq": 0.00423653,
+        "log_rank": 1.5682,
+        "log_freq": -2.373
+      },
+      {
+        "rank": 38,
+        "word": "she",
+        "count": 4184,
+        "freq": 0.00407111,
+        "log_rank": 1.5798,
+        "log_freq": -2.3903
+      },
+      {
+        "rank": 39,
+        "word": "was",
+        "count": 4153,
+        "freq": 0.00404095,
+        "log_rank": 1.5911,
+        "log_freq": -2.3935
+      },
+      {
+        "rank": 40,
+        "word": "but",
+        "count": 4084,
+        "freq": 0.00397381,
+        "log_rank": 1.6021,
+        "log_freq": -2.4008
+      },
+      {
+        "rank": 41,
+        "word": "buddha",
+        "count": 3882,
+        "freq": 0.00377726,
+        "log_rank": 1.6128,
+        "log_freq": -2.4228
+      },
+      {
+        "rank": 42,
+        "word": "what",
+        "count": 3715,
+        "freq": 0.00361477,
+        "log_rank": 1.6232,
+        "log_freq": -2.4419
+      },
+      {
+        "rank": 43,
+        "word": "him",
+        "count": 3709,
+        "freq": 0.00360893,
+        "log_rank": 1.6335,
+        "log_freq": -2.4426
+      },
+      {
+        "rank": 44,
+        "word": "his",
+        "count": 3465,
+        "freq": 0.00337151,
+        "log_rank": 1.6435,
+        "log_freq": -2.4722
+      },
+      {
+        "rank": 45,
+        "word": "legal",
+        "count": 3431,
+        "freq": 0.00333843,
+        "log_rank": 1.6532,
+        "log_freq": -2.4765
+      },
+      {
+        "rank": 46,
+        "word": "wrong",
+        "count": 3305,
+        "freq": 0.00321583,
+        "log_rank": 1.6628,
+        "log_freq": -2.4927
+      },
+      {
+        "rank": 47,
+        "word": "conduct",
+        "count": 3223,
+        "freq": 0.00313604,
+        "log_rank": 1.6721,
+        "log_freq": -2.5036
+      },
+      {
+        "rank": 48,
+        "word": "so",
+        "count": 3205,
+        "freq": 0.00311853,
+        "log_rank": 1.6812,
+        "log_freq": -2.5061
+      },
+      {
+        "rank": 49,
+        "word": "them",
+        "count": 3102,
+        "freq": 0.00301831,
+        "log_rank": 1.6902,
+        "log_freq": -2.5202
+      },
+      {
+        "rank": 50,
+        "word": "robe",
+        "count": 3055,
+        "freq": 0.00297257,
+        "log_rank": 1.699,
+        "log_freq": -2.5269
+      },
+      {
+        "rank": 51,
+        "word": "have",
+        "count": 2922,
+        "freq": 0.00284316,
+        "log_rank": 1.7076,
+        "log_freq": -2.5462
+      },
+      {
+        "rank": 52,
+        "word": "procedure",
+        "count": 2682,
+        "freq": 0.00260964,
+        "log_rank": 1.716,
+        "log_freq": -2.5834
+      },
+      {
+        "rank": 53,
+        "word": "rule",
+        "count": 2654,
+        "freq": 0.00258239,
+        "log_rank": 1.7243,
+        "log_freq": -2.588
+      },
+      {
+        "rank": 54,
+        "word": "do",
+        "count": 2629,
+        "freq": 0.00255807,
+        "log_rank": 1.7324,
+        "log_freq": -2.5921
+      },
+      {
+        "rank": 55,
+        "word": "time",
+        "count": 2573,
+        "freq": 0.00250358,
+        "log_rank": 1.7404,
+        "log_freq": -2.6014
+      },
+      {
+        "rank": 56,
+        "word": "down",
+        "count": 2403,
+        "freq": 0.00233817,
+        "log_rank": 1.7482,
+        "log_freq": -2.6311
+      },
+      {
+        "rank": 57,
+        "word": "been",
+        "count": 2403,
+        "freq": 0.00233817,
+        "log_rank": 1.7559,
+        "log_freq": -2.6311
+      },
+      {
+        "rank": 58,
+        "word": "no",
+        "count": 2330,
+        "freq": 0.00226713,
+        "log_rank": 1.7634,
+        "log_freq": -2.6445
+      },
+      {
+        "rank": 59,
+        "word": "how",
+        "count": 2315,
+        "freq": 0.00225254,
+        "log_rank": 1.7709,
+        "log_freq": -2.6473
+      },
+      {
+        "rank": 60,
+        "word": "nuns",
+        "count": 2207,
+        "freq": 0.00214745,
+        "log_rank": 1.7782,
+        "log_freq": -2.6681
+      },
+      {
+        "rank": 61,
+        "word": "had",
+        "count": 2195,
+        "freq": 0.00213578,
+        "log_rank": 1.7853,
+        "log_freq": -2.6704
+      },
+      {
+        "rank": 62,
+        "word": "training",
+        "count": 2190,
+        "freq": 0.00213091,
+        "log_rank": 1.7924,
+        "log_freq": -2.6714
+      },
+      {
+        "rank": 63,
+        "word": "confession",
+        "count": 2162,
+        "freq": 0.00210367,
+        "log_rank": 1.7993,
+        "log_freq": -2.677
+      },
+      {
+        "rank": 64,
+        "word": "those",
+        "count": 2161,
+        "freq": 0.00210269,
+        "log_rank": 1.8062,
+        "log_freq": -2.6772
+      },
+      {
+        "rank": 65,
+        "word": "two",
+        "count": 2151,
+        "freq": 0.00209296,
+        "log_rank": 1.8129,
+        "log_freq": -2.6792
+      },
+      {
+        "rank": 66,
+        "word": "monastery",
+        "count": 2097,
+        "freq": 0.00204042,
+        "log_rank": 1.8195,
+        "log_freq": -2.6903
+      },
+      {
+        "rank": 67,
+        "word": "which",
+        "count": 2086,
+        "freq": 0.00202972,
+        "log_rank": 1.8261,
+        "log_freq": -2.6926
+      },
+      {
+        "rank": 68,
+        "word": "nun",
+        "count": 2086,
+        "freq": 0.00202972,
+        "log_rank": 1.8325,
+        "log_freq": -2.6926
+      },
+      {
+        "rank": 69,
+        "word": "three",
+        "count": 2046,
+        "freq": 0.0019908,
+        "log_rank": 1.8388,
+        "log_freq": -2.701
+      },
+      {
+        "rank": 70,
+        "word": "her",
+        "count": 1945,
+        "freq": 0.00189252,
+        "log_rank": 1.8451,
+        "log_freq": -2.723
+      },
+      {
+        "rank": 71,
+        "word": "monastic",
+        "count": 1925,
+        "freq": 0.00187306,
+        "log_rank": 1.8513,
+        "log_freq": -2.7274
+      },
+      {
+        "rank": 72,
+        "word": "done",
+        "count": 1908,
+        "freq": 0.00185652,
+        "log_rank": 1.8573,
+        "log_freq": -2.7313
+      },
+      {
+        "rank": 73,
+        "word": "out",
+        "count": 1885,
+        "freq": 0.00183414,
+        "log_rank": 1.8633,
+        "log_freq": -2.7366
+      },
+      {
+        "rank": 74,
+        "word": "said",
+        "count": 1873,
+        "freq": 0.00182246,
+        "log_rank": 1.8692,
+        "log_freq": -2.7393
+      },
+      {
+        "rank": 75,
+        "word": "about",
+        "count": 1818,
+        "freq": 0.00176895,
+        "log_rank": 1.8751,
+        "log_freq": -2.7523
+      },
+      {
+        "rank": 76,
+        "word": "such",
+        "count": 1800,
+        "freq": 0.00175143,
+        "log_rank": 1.8808,
+        "log_freq": -2.7566
+      },
+      {
+        "rank": 77,
+        "word": "up",
+        "count": 1800,
+        "freq": 0.00175143,
+        "log_rank": 1.8865,
+        "log_freq": -2.7566
+      },
+      {
+        "rank": 78,
+        "word": "may",
+        "count": 1785,
+        "freq": 0.00173684,
+        "log_rank": 1.8921,
+        "log_freq": -2.7602
+      },
+      {
+        "rank": 79,
+        "word": "give",
+        "count": 1783,
+        "freq": 0.00173489,
+        "log_rank": 1.8976,
+        "log_freq": -2.7607
+      },
+      {
+        "rank": 80,
+        "word": "will",
+        "count": 1777,
+        "freq": 0.00172906,
+        "log_rank": 1.9031,
+        "log_freq": -2.7622
+      },
+      {
+        "rank": 81,
+        "word": "kinds",
+        "count": 1768,
+        "freq": 0.0017203,
+        "log_rank": 1.9085,
+        "log_freq": -2.7644
+      },
+      {
+        "rank": 82,
+        "word": "offense",
+        "count": 1765,
+        "freq": 0.00171738,
+        "log_rank": 1.9138,
+        "log_freq": -2.7651
+      },
+      {
+        "rank": 83,
+        "word": "were",
+        "count": 1730,
+        "freq": 0.00168332,
+        "log_rank": 1.9191,
+        "log_freq": -2.7738
+      },
+      {
+        "rank": 84,
+        "word": "does",
+        "count": 1721,
+        "freq": 0.00167457,
+        "log_rank": 1.9243,
+        "log_freq": -2.7761
+      },
+      {
+        "rank": 85,
+        "word": "their",
+        "count": 1719,
+        "freq": 0.00167262,
+        "log_rank": 1.9294,
+        "log_freq": -2.7766
+      },
+      {
+        "rank": 86,
+        "word": "see",
+        "count": 1707,
+        "freq": 0.00166094,
+        "log_rank": 1.9345,
+        "log_freq": -2.7796
+      },
+      {
+        "rank": 87,
+        "word": "six",
+        "count": 1636,
+        "freq": 0.00159186,
+        "log_rank": 1.9395,
+        "log_freq": -2.7981
+      },
+      {
+        "rank": 88,
+        "word": "after",
+        "count": 1608,
+        "freq": 0.00156461,
+        "log_rank": 1.9445,
+        "log_freq": -2.8056
+      },
+      {
+        "rank": 89,
+        "word": "these",
+        "count": 1607,
+        "freq": 0.00156364,
+        "log_rank": 1.9494,
+        "log_freq": -2.8059
+      },
+      {
+        "rank": 90,
+        "word": "like",
+        "count": 1576,
+        "freq": 0.00153348,
+        "log_rank": 1.9542,
+        "log_freq": -2.8143
+      },
+      {
+        "rank": 91,
+        "word": "first",
+        "count": 1552,
+        "freq": 0.00151013,
+        "log_rank": 1.959,
+        "log_freq": -2.821
+      },
+      {
+        "rank": 92,
+        "word": "through",
+        "count": 1520,
+        "freq": 0.00147899,
+        "log_rank": 1.9638,
+        "log_freq": -2.83
+      },
+      {
+        "rank": 93,
+        "word": "having",
+        "count": 1506,
+        "freq": 0.00146537,
+        "log_rank": 1.9685,
+        "log_freq": -2.8341
+      },
+      {
+        "rank": 94,
+        "word": "we",
+        "count": 1503,
+        "freq": 0.00146245,
+        "log_rank": 1.9731,
+        "log_freq": -2.8349
+      },
+      {
+        "rank": 95,
+        "word": "other",
+        "count": 1500,
+        "freq": 0.00145953,
+        "log_rank": 1.9777,
+        "log_freq": -2.8358
+      },
+      {
+        "rank": 96,
+        "word": "teaching",
+        "count": 1480,
+        "freq": 0.00144007,
+        "log_rank": 1.9823,
+        "log_freq": -2.8416
+      },
+      {
+        "rank": 97,
+        "word": "bu",
+        "count": 1447,
+        "freq": 0.00140796,
+        "log_rank": 1.9868,
+        "log_freq": -2.8514
+      },
+      {
+        "rank": 98,
+        "word": "five",
+        "count": 1413,
+        "freq": 0.00137488,
+        "log_rank": 1.9912,
+        "log_freq": -2.8617
+      },
+      {
+        "rank": 99,
+        "word": "being",
+        "count": 1402,
+        "freq": 0.00136417,
+        "log_rank": 1.9956,
+        "log_freq": -2.8651
+      },
+      {
+        "rank": 100,
+        "word": "full",
+        "count": 1399,
+        "freq": 0.00136125,
+        "log_rank": 2.0,
+        "log_freq": -2.8661
+      },
+      {
+        "rank": 101,
+        "word": "kd",
+        "count": 1365,
+        "freq": 0.00132817,
+        "log_rank": 2.0043,
+        "log_freq": -2.8767
+      },
+      {
+        "rank": 102,
+        "word": "did",
+        "count": 1357,
+        "freq": 0.00132039,
+        "log_rank": 2.0086,
+        "log_freq": -2.8793
+      },
+      {
+        "rank": 103,
+        "word": "without",
+        "count": 1332,
+        "freq": 0.00129606,
+        "log_rank": 2.0128,
+        "log_freq": -2.8874
+      },
+      {
+        "rank": 104,
+        "word": "another",
+        "count": 1332,
+        "freq": 0.00129606,
+        "log_rank": 2.017,
+        "log_freq": -2.8874
+      },
+      {
+        "rank": 105,
+        "word": "given",
+        "count": 1332,
+        "freq": 0.00129606,
+        "log_rank": 2.0212,
+        "log_freq": -2.8874
+      },
+      {
+        "rank": 106,
+        "word": "where",
+        "count": 1323,
+        "freq": 0.0012873,
+        "log_rank": 2.0253,
+        "log_freq": -2.8903
+      },
+      {
+        "rank": 107,
+        "word": "sp",
+        "count": 1318,
+        "freq": 0.00128244,
+        "log_rank": 2.0294,
+        "log_freq": -2.892
+      },
+      {
+        "rank": 108,
+        "word": "people",
+        "count": 1302,
+        "freq": 0.00126687,
+        "log_rank": 2.0334,
+        "log_freq": -2.8973
+      },
+      {
+        "rank": 109,
+        "word": "group",
+        "count": 1298,
+        "freq": 0.00126298,
+        "log_rank": 2.0374,
+        "log_freq": -2.8986
+      },
+      {
+        "rank": 110,
+        "word": "because",
+        "count": 1298,
+        "freq": 0.00126298,
+        "log_rank": 2.0414,
+        "log_freq": -2.8986
+      },
+      {
+        "rank": 111,
+        "word": "finished",
+        "count": 1270,
+        "freq": 0.00123573,
+        "log_rank": 2.0453,
+        "log_freq": -2.9081
+      },
+      {
+        "rank": 112,
+        "word": "venerable",
+        "count": 1267,
+        "freq": 0.00123282,
+        "log_rank": 2.0492,
+        "log_freq": -2.9091
+      },
+      {
+        "rank": 113,
+        "word": "told",
+        "count": 1246,
+        "freq": 0.00121238,
+        "log_rank": 2.0531,
+        "log_freq": -2.9164
+      },
+      {
+        "rank": 114,
+        "word": "all",
+        "count": 1237,
+        "freq": 0.00120362,
+        "log_rank": 2.0569,
+        "log_freq": -2.9195
+      },
+      {
+        "rank": 115,
+        "word": "while",
+        "count": 1221,
+        "freq": 0.00118806,
+        "log_rank": 2.0607,
+        "log_freq": -2.9252
+      },
+      {
+        "rank": 116,
+        "word": "many",
+        "count": 1208,
+        "freq": 0.00117541,
+        "log_rank": 2.0645,
+        "log_freq": -2.9298
+      },
+      {
+        "rank": 117,
+        "word": "go",
+        "count": 1191,
+        "freq": 0.00115887,
+        "log_rank": 2.0682,
+        "log_freq": -2.936
+      },
+      {
+        "rank": 118,
+        "word": "true",
+        "count": 1181,
+        "freq": 0.00114914,
+        "log_rank": 2.0719,
+        "log_freq": -2.9396
+      },
+      {
+        "rank": 119,
+        "word": "body",
+        "count": 1180,
+        "freq": 0.00114816,
+        "log_rank": 2.0755,
+        "log_freq": -2.94
+      },
+      {
+        "rank": 120,
+        "word": "day",
+        "count": 1162,
+        "freq": 0.00113065,
+        "log_rank": 2.0792,
+        "log_freq": -2.9467
+      },
+      {
+        "rank": 121,
+        "word": "rules",
+        "count": 1161,
+        "freq": 0.00112968,
+        "log_rank": 2.0828,
+        "log_freq": -2.947
+      },
+      {
+        "rank": 122,
+        "word": "made",
+        "count": 1143,
+        "freq": 0.00111216,
+        "log_rank": 2.0864,
+        "log_freq": -2.9538
+      },
+      {
+        "rank": 123,
+        "word": "cloth",
+        "count": 1141,
+        "freq": 0.00111021,
+        "log_rank": 2.0899,
+        "log_freq": -2.9546
+      },
+      {
+        "rank": 124,
+        "word": "ceremony",
+        "count": 1140,
+        "freq": 0.00110924,
+        "log_rank": 2.0934,
+        "log_freq": -2.955
+      },
+      {
+        "rank": 125,
+        "word": "both",
+        "count": 1112,
+        "freq": 0.001082,
+        "log_rank": 2.0969,
+        "log_freq": -2.9658
+      },
+      {
+        "rank": 126,
+        "word": "more",
+        "count": 1098,
+        "freq": 0.00106838,
+        "log_rank": 2.1004,
+        "log_freq": -2.9713
+      },
+      {
+        "rank": 127,
+        "word": "offence",
+        "count": 1090,
+        "freq": 0.00106059,
+        "log_rank": 2.1038,
+        "log_freq": -2.9745
+      },
+      {
+        "rank": 128,
+        "word": "committed",
+        "count": 1066,
+        "freq": 0.00103724,
+        "log_rank": 2.1072,
+        "log_freq": -2.9841
+      },
+      {
+        "rank": 129,
+        "word": "sir",
+        "count": 1054,
+        "freq": 0.00102556,
+        "log_rank": 2.1106,
+        "log_freq": -2.989
+      },
+      {
+        "rank": 130,
+        "word": "can",
+        "count": 1051,
+        "freq": 0.00102264,
+        "log_rank": 2.1139,
+        "log_freq": -2.9903
+      },
+      {
+        "rank": 131,
+        "word": "means",
+        "count": 1042,
+        "freq": 0.00101389,
+        "log_rank": 2.1173,
+        "log_freq": -2.994
+      },
+      {
+        "rank": 132,
+        "word": "same",
+        "count": 1042,
+        "freq": 0.00101389,
+        "log_rank": 2.1206,
+        "log_freq": -2.994
+      },
+      {
+        "rank": 133,
+        "word": "me",
+        "count": 1041,
+        "freq": 0.00101291,
+        "log_rank": 2.1239,
+        "log_freq": -2.9944
+      },
+      {
+        "rank": 134,
+        "word": "suspension",
+        "count": 1032,
+        "freq": 0.00100416,
+        "log_rank": 2.1271,
+        "log_freq": -2.9982
+      },
+      {
+        "rank": 135,
+        "word": "way",
+        "count": 1025,
+        "freq": 0.00099734,
+        "log_rank": 2.1303,
+        "log_freq": -3.0012
+      },
+      {
+        "rank": 136,
+        "word": "four",
+        "count": 1024,
+        "freq": 0.00099637,
+        "log_rank": 2.1335,
+        "log_freq": -3.0016
+      },
+      {
+        "rank": 137,
+        "word": "law",
+        "count": 1010,
+        "freq": 0.00098275,
+        "log_rank": 2.1367,
+        "log_freq": -3.0076
+      },
+      {
+        "rank": 138,
+        "word": "non",
+        "count": 1001,
+        "freq": 0.00097399,
+        "log_rank": 2.1399,
+        "log_freq": -3.0114
+      },
+      {
+        "rank": 139,
+        "word": "saying",
+        "count": 1001,
+        "freq": 0.00097399,
+        "log_rank": 2.143,
+        "log_freq": -3.0114
+      },
+      {
+        "rank": 140,
+        "word": "also",
+        "count": 990,
+        "freq": 0.00096329,
+        "log_rank": 2.1461,
+        "log_freq": -3.0162
+      },
+      {
+        "rank": 141,
+        "word": "please",
+        "count": 988,
+        "freq": 0.00096134,
+        "log_rank": 2.1492,
+        "log_freq": -3.0171
+      },
+      {
+        "rank": 142,
+        "word": "pc",
+        "count": 978,
+        "freq": 0.00095161,
+        "log_rank": 2.1523,
+        "log_freq": -3.0215
+      },
+      {
+        "rank": 143,
+        "word": "than",
+        "count": 975,
+        "freq": 0.00094869,
+        "log_rank": 2.1553,
+        "log_freq": -3.0229
+      },
+      {
+        "rank": 144,
+        "word": "ask",
+        "count": 966,
+        "freq": 0.00093994,
+        "log_rank": 2.1584,
+        "log_freq": -3.0269
+      },
+      {
+        "rank": 145,
+        "word": "expulsion",
+        "count": 964,
+        "freq": 0.00093799,
+        "log_rank": 2.1614,
+        "log_freq": -3.0278
+      },
+      {
+        "rank": 146,
+        "word": "make",
+        "count": 961,
+        "freq": 0.00093507,
+        "log_rank": 2.1644,
+        "log_freq": -3.0292
+      },
+      {
+        "rank": 147,
+        "word": "back",
+        "count": 952,
+        "freq": 0.00092631,
+        "log_rank": 2.1673,
+        "log_freq": -3.0332
+      },
+      {
+        "rank": 148,
+        "word": "any",
+        "count": 948,
+        "freq": 0.00092242,
+        "log_rank": 2.1703,
+        "log_freq": -3.0351
+      },
+      {
+        "rank": 149,
+        "word": "making",
+        "count": 934,
+        "freq": 0.0009088,
+        "log_rank": 2.1732,
+        "log_freq": -3.0415
+      },
+      {
+        "rank": 150,
+        "word": "well",
+        "count": 890,
+        "freq": 0.00086599,
+        "log_rank": 2.1761,
+        "log_freq": -3.0625
+      },
+      {
+        "rank": 151,
+        "word": "water",
+        "count": 889,
+        "freq": 0.00086501,
+        "log_rank": 2.179,
+        "log_freq": -3.063
+      },
+      {
+        "rank": 152,
+        "word": "against",
+        "count": 886,
+        "freq": 0.00086209,
+        "log_rank": 2.1818,
+        "log_freq": -3.0644
+      },
+      {
+        "rank": 153,
+        "word": "here",
+        "count": 876,
+        "freq": 0.00085236,
+        "log_rank": 2.1847,
+        "log_freq": -3.0694
+      },
+      {
+        "rank": 154,
+        "word": "just",
+        "count": 876,
+        "freq": 0.00085236,
+        "log_rank": 2.1875,
+        "log_freq": -3.0694
+      },
+      {
+        "rank": 155,
+        "word": "face",
+        "count": 865,
+        "freq": 0.00084166,
+        "log_rank": 2.1903,
+        "log_freq": -3.0749
+      },
+      {
+        "rank": 156,
+        "word": "together",
+        "count": 859,
+        "freq": 0.00083582,
+        "log_rank": 2.1931,
+        "log_freq": -3.0779
+      },
+      {
+        "rank": 157,
+        "word": "according",
+        "count": 858,
+        "freq": 0.00083485,
+        "log_rank": 2.1959,
+        "log_freq": -3.0784
+      },
+      {
+        "rank": 158,
+        "word": "right",
+        "count": 855,
+        "freq": 0.00083193,
+        "log_rank": 2.1987,
+        "log_freq": -3.0799
+      },
+      {
+        "rank": 159,
+        "word": "mind",
+        "count": 854,
+        "freq": 0.00083096,
+        "log_rank": 2.2014,
+        "log_freq": -3.0804
+      },
+      {
+        "rank": 160,
+        "word": "ordination",
+        "count": 849,
+        "freq": 0.00082609,
+        "log_rank": 2.2041,
+        "log_freq": -3.083
+      },
+      {
+        "rank": 161,
+        "word": "second",
+        "count": 839,
+        "freq": 0.00081636,
+        "log_rank": 2.2068,
+        "log_freq": -3.0881
+      },
+      {
+        "rank": 162,
+        "word": "speech",
+        "count": 837,
+        "freq": 0.00081442,
+        "log_rank": 2.2095,
+        "log_freq": -3.0892
+      },
+      {
+        "rank": 163,
+        "word": "man",
+        "count": 829,
+        "freq": 0.00080663,
+        "log_rank": 2.2122,
+        "log_freq": -3.0933
+      },
+      {
+        "rank": 164,
+        "word": "laid",
+        "count": 828,
+        "freq": 0.00080566,
+        "log_rank": 2.2148,
+        "log_freq": -3.0938
+      },
+      {
+        "rank": 165,
+        "word": "says",
+        "count": 827,
+        "freq": 0.00080469,
+        "log_rank": 2.2175,
+        "log_freq": -3.0944
+      },
+      {
+        "rank": 166,
+        "word": "woman",
+        "count": 824,
+        "freq": 0.00080177,
+        "log_rank": 2.2201,
+        "log_freq": -3.096
+      },
+      {
+        "rank": 167,
+        "word": "season",
+        "count": 813,
+        "freq": 0.00079106,
+        "log_rank": 2.2227,
+        "log_freq": -3.1018
+      },
+      {
+        "rank": 168,
+        "word": "issue",
+        "count": 812,
+        "freq": 0.00079009,
+        "log_rank": 2.2253,
+        "log_freq": -3.1023
+      },
+      {
+        "rank": 169,
+        "word": "know",
+        "count": 809,
+        "freq": 0.00078717,
+        "log_rank": 2.2279,
+        "log_freq": -3.1039
+      },
+      {
+        "rank": 170,
+        "word": "perceives",
+        "count": 802,
+        "freq": 0.00078036,
+        "log_rank": 2.2304,
+        "log_freq": -3.1077
+      },
+      {
+        "rank": 171,
+        "word": "say",
+        "count": 795,
+        "freq": 0.00077355,
+        "log_rank": 2.233,
+        "log_freq": -3.1115
+      },
+      {
+        "rank": 172,
+        "word": "invitation",
+        "count": 793,
+        "freq": 0.0007716,
+        "log_rank": 2.2355,
+        "log_freq": -3.1126
+      },
+      {
+        "rank": 173,
+        "word": "away",
+        "count": 792,
+        "freq": 0.00077063,
+        "log_rank": 2.238,
+        "log_freq": -3.1132
+      },
+      {
+        "rank": 174,
+        "word": "fully",
+        "count": 788,
+        "freq": 0.00076674,
+        "log_rank": 2.2405,
+        "log_freq": -3.1154
+      },
+      {
+        "rank": 175,
+        "word": "arising",
+        "count": 787,
+        "freq": 0.00076577,
+        "log_rank": 2.243,
+        "log_freq": -3.1159
+      },
+      {
+        "rank": 176,
+        "word": "assembly",
+        "count": 784,
+        "freq": 0.00076285,
+        "log_rank": 2.2455,
+        "log_freq": -3.1176
+      },
+      {
+        "rank": 177,
+        "word": "your",
+        "count": 781,
+        "freq": 0.00075993,
+        "log_rank": 2.248,
+        "log_freq": -3.1192
+      },
+      {
+        "rank": 178,
+        "word": "resolution",
+        "count": 776,
+        "freq": 0.00075506,
+        "log_rank": 2.2504,
+        "log_freq": -3.122
+      },
+      {
+        "rank": 179,
+        "word": "venerables",
+        "count": 775,
+        "freq": 0.00075409,
+        "log_rank": 2.2529,
+        "log_freq": -3.1226
+      },
+      {
+        "rank": 180,
+        "word": "went",
+        "count": 772,
+        "freq": 0.00075117,
+        "log_rank": 2.2553,
+        "log_freq": -3.1243
+      },
+      {
+        "rank": 181,
+        "word": "allow",
+        "count": 771,
+        "freq": 0.0007502,
+        "log_rank": 2.2577,
+        "log_freq": -3.1248
+      },
+      {
+        "rank": 182,
+        "word": "makes",
+        "count": 768,
+        "freq": 0.00074728,
+        "log_rank": 2.2601,
+        "log_freq": -3.1265
+      },
+      {
+        "rank": 183,
+        "word": "qualities",
+        "count": 765,
+        "freq": 0.00074436,
+        "log_rank": 2.2625,
+        "log_freq": -3.1282
+      },
+      {
+        "rank": 184,
+        "word": "number",
+        "count": 761,
+        "freq": 0.00074047,
+        "log_rank": 2.2648,
+        "log_freq": -3.1305
+      },
+      {
+        "rank": 185,
+        "word": "food",
+        "count": 754,
+        "freq": 0.00073366,
+        "log_rank": 2.2672,
+        "log_freq": -3.1345
+      },
+      {
+        "rank": 186,
+        "word": "certain",
+        "count": 749,
+        "freq": 0.00072879,
+        "log_rank": 2.2695,
+        "log_freq": -3.1374
+      },
+      {
+        "rank": 187,
+        "word": "issues",
+        "count": 748,
+        "freq": 0.00072782,
+        "log_rank": 2.2718,
+        "log_freq": -3.138
+      },
+      {
+        "rank": 188,
+        "word": "bowl",
+        "count": 742,
+        "freq": 0.00072198,
+        "log_rank": 2.2742,
+        "log_freq": -3.1415
+      },
+      {
+        "rank": 189,
+        "word": "someone",
+        "count": 740,
+        "freq": 0.00072003,
+        "log_rank": 2.2765,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 190,
+        "word": "sāvatthī",
+        "count": 724,
+        "freq": 0.00070447,
+        "log_rank": 2.2788,
+        "log_freq": -3.1521
+      },
+      {
+        "rank": 191,
+        "word": "offenses",
+        "count": 722,
+        "freq": 0.00070252,
+        "log_rank": 2.281,
+        "log_freq": -3.1533
+      },
+      {
+        "rank": 192,
+        "word": "probation",
+        "count": 721,
+        "freq": 0.00070155,
+        "log_rank": 2.2833,
+        "log_freq": -3.1539
+      },
+      {
+        "rank": 193,
+        "word": "person",
+        "count": 715,
+        "freq": 0.00069571,
+        "log_rank": 2.2856,
+        "log_freq": -3.1576
+      },
+      {
+        "rank": 194,
+        "word": "robes",
+        "count": 712,
+        "freq": 0.00069279,
+        "log_rank": 2.2878,
+        "log_freq": -3.1594
+      },
+      {
+        "rank": 195,
+        "word": "my",
+        "count": 710,
+        "freq": 0.00069084,
+        "log_rank": 2.29,
+        "log_freq": -3.1606
+      },
+      {
+        "rank": 196,
+        "word": "would",
+        "count": 706,
+        "freq": 0.00068695,
+        "log_rank": 2.2923,
+        "log_freq": -3.1631
+      },
+      {
+        "rank": 197,
+        "word": "asked",
+        "count": 700,
+        "freq": 0.00068111,
+        "log_rank": 2.2945,
+        "log_freq": -3.1668
+      },
+      {
+        "rank": 198,
+        "word": "life",
+        "count": 697,
+        "freq": 0.00067819,
+        "log_rank": 2.2967,
+        "log_freq": -3.1686
+      },
+      {
+        "rank": 199,
+        "word": "commit",
+        "count": 696,
+        "freq": 0.00067722,
+        "log_rank": 2.2989,
+        "log_freq": -3.1693
+      },
+      {
+        "rank": 200,
+        "word": "knows",
+        "count": 694,
+        "freq": 0.00067528,
+        "log_rank": 2.301,
+        "log_freq": -3.1705
+      }
+    ],
+    "pitaka_abhidhamma": [
+      {
+        "rank": 1,
+        "word": "the",
+        "count": 12920,
+        "freq": 0.076886,
+        "log_rank": 0.0,
+        "log_freq": -1.1142
+      },
+      {
+        "rank": 2,
+        "word": "of",
+        "count": 7522,
+        "freq": 0.04476289,
+        "log_rank": 0.301,
+        "log_freq": -1.3491
+      },
+      {
+        "rank": 3,
+        "word": "and",
+        "count": 4307,
+        "freq": 0.02563065,
+        "log_rank": 0.4771,
+        "log_freq": -1.5912
+      },
+      {
+        "rank": 4,
+        "word": "is",
+        "count": 3827,
+        "freq": 0.0227742,
+        "log_rank": 0.6021,
+        "log_freq": -1.6426
+      },
+      {
+        "rank": 5,
+        "word": "in",
+        "count": 3311,
+        "freq": 0.01970352,
+        "log_rank": 0.699,
+        "log_freq": -1.7055
+      },
+      {
+        "rank": 6,
+        "word": "to",
+        "count": 2954,
+        "freq": 0.01757904,
+        "log_rank": 0.7782,
+        "log_freq": -1.755
+      },
+      {
+        "rank": 7,
+        "word": "are",
+        "count": 2329,
+        "freq": 0.01385971,
+        "log_rank": 0.8451,
+        "log_freq": -1.8582
+      },
+      {
+        "rank": 8,
+        "word": "consciousness",
+        "count": 2007,
+        "freq": 0.01194351,
+        "log_rank": 0.9031,
+        "log_freq": -1.9229
+      },
+      {
+        "rank": 9,
+        "word": "as",
+        "count": 1720,
+        "freq": 0.0102356,
+        "log_rank": 0.9542,
+        "log_freq": -1.9899
+      },
+      {
+        "rank": 10,
+        "word": "by",
+        "count": 1442,
+        "freq": 0.00858124,
+        "log_rank": 1.0,
+        "log_freq": -2.0664
+      },
+      {
+        "rank": 11,
+        "word": "that",
+        "count": 1359,
+        "freq": 0.00808731,
+        "log_rank": 1.0414,
+        "log_freq": -2.0922
+      },
+      {
+        "rank": 12,
+        "word": "with",
+        "count": 1239,
+        "freq": 0.0073732,
+        "log_rank": 1.0792,
+        "log_freq": -2.1323
+      },
+      {
+        "rank": 13,
+        "word": "it",
+        "count": 1205,
+        "freq": 0.00717087,
+        "log_rank": 1.1139,
+        "log_freq": -2.1444
+      },
+      {
+        "rank": 14,
+        "word": "or",
+        "count": 1053,
+        "freq": 0.00626633,
+        "log_rank": 1.1461,
+        "log_freq": -2.203
+      },
+      {
+        "rank": 15,
+        "word": "one",
+        "count": 1050,
+        "freq": 0.00624848,
+        "log_rank": 1.1761,
+        "log_freq": -2.2042
+      },
+      {
+        "rank": 16,
+        "word": "this",
+        "count": 843,
+        "freq": 0.00501663,
+        "log_rank": 1.2041,
+        "log_freq": -2.2996
+      },
+      {
+        "rank": 17,
+        "word": "for",
+        "count": 771,
+        "freq": 0.00458817,
+        "log_rank": 1.2304,
+        "log_freq": -2.3384
+      },
+      {
+        "rank": 18,
+        "word": "which",
+        "count": 752,
+        "freq": 0.0044751,
+        "log_rank": 1.2553,
+        "log_freq": -2.3492
+      },
+      {
+        "rank": 19,
+        "word": "mental",
+        "count": 742,
+        "freq": 0.00441559,
+        "log_rank": 1.2788,
+        "log_freq": -2.355
+      },
+      {
+        "rank": 20,
+        "word": "they",
+        "count": 732,
+        "freq": 0.00435608,
+        "log_rank": 1.301,
+        "log_freq": -2.3609
+      },
+      {
+        "rank": 21,
+        "word": "object",
+        "count": 715,
+        "freq": 0.00425491,
+        "log_rank": 1.3222,
+        "log_freq": -2.3711
+      },
+      {
+        "rank": 22,
+        "word": "on",
+        "count": 674,
+        "freq": 0.00401093,
+        "log_rank": 1.3424,
+        "log_freq": -2.3968
+      },
+      {
+        "rank": 23,
+        "word": "mind",
+        "count": 664,
+        "freq": 0.00395142,
+        "log_rank": 1.3617,
+        "log_freq": -2.4032
+      },
+      {
+        "rank": 24,
+        "word": "be",
+        "count": 660,
+        "freq": 0.00392761,
+        "log_rank": 1.3802,
+        "log_freq": -2.4059
+      },
+      {
+        "rank": 25,
+        "word": "not",
+        "count": 650,
+        "freq": 0.0038681,
+        "log_rank": 1.3979,
+        "log_freq": -2.4125
+      },
+      {
+        "rank": 26,
+        "word": "from",
+        "count": 647,
+        "freq": 0.00385025,
+        "log_rank": 1.415,
+        "log_freq": -2.4145
+      },
+      {
+        "rank": 27,
+        "word": "types",
+        "count": 634,
+        "freq": 0.00377289,
+        "log_rank": 1.4314,
+        "log_freq": -2.4233
+      },
+      {
+        "rank": 28,
+        "word": "four",
+        "count": 577,
+        "freq": 0.00343369,
+        "log_rank": 1.4472,
+        "log_freq": -2.4642
+      },
+      {
+        "rank": 29,
+        "word": "cittas",
+        "count": 577,
+        "freq": 0.00343369,
+        "log_rank": 1.4624,
+        "log_freq": -2.4642
+      },
+      {
+        "rank": 30,
+        "word": "sense",
+        "count": 547,
+        "freq": 0.00325516,
+        "log_rank": 1.4771,
+        "log_freq": -2.4874
+      },
+      {
+        "rank": 31,
+        "word": "all",
+        "count": 545,
+        "freq": 0.00324326,
+        "log_rank": 1.4914,
+        "log_freq": -2.489
+      },
+      {
+        "rank": 32,
+        "word": "material",
+        "count": 530,
+        "freq": 0.00315399,
+        "log_rank": 1.5051,
+        "log_freq": -2.5011
+      },
+      {
+        "rank": 33,
+        "word": "there",
+        "count": 530,
+        "freq": 0.00315399,
+        "log_rank": 1.5185,
+        "log_freq": -2.5011
+      },
+      {
+        "rank": 34,
+        "word": "two",
+        "count": 506,
+        "freq": 0.00301117,
+        "log_rank": 1.5315,
+        "log_freq": -2.5213
+      },
+      {
+        "rank": 35,
+        "word": "these",
+        "count": 504,
+        "freq": 0.00299927,
+        "log_rank": 1.5441,
+        "log_freq": -2.523
+      },
+      {
+        "rank": 36,
+        "word": "an",
+        "count": 499,
+        "freq": 0.00296951,
+        "log_rank": 1.5563,
+        "log_freq": -2.5273
+      },
+      {
+        "rank": 37,
+        "word": "its",
+        "count": 495,
+        "freq": 0.00294571,
+        "log_rank": 1.5682,
+        "log_freq": -2.5308
+      },
+      {
+        "rank": 38,
+        "word": "three",
+        "count": 488,
+        "freq": 0.00290405,
+        "log_rank": 1.5798,
+        "log_freq": -2.537
+      },
+      {
+        "rank": 39,
+        "word": "states",
+        "count": 485,
+        "freq": 0.0028862,
+        "log_rank": 1.5911,
+        "log_freq": -2.5397
+      },
+      {
+        "rank": 40,
+        "word": "five",
+        "count": 455,
+        "freq": 0.00270767,
+        "log_rank": 1.6021,
+        "log_freq": -2.5674
+      },
+      {
+        "rank": 41,
+        "word": "matter",
+        "count": 441,
+        "freq": 0.00262436,
+        "log_rank": 1.6128,
+        "log_freq": -2.581
+      },
+      {
+        "rank": 42,
+        "word": "kamma",
+        "count": 431,
+        "freq": 0.00256485,
+        "log_rank": 1.6232,
+        "log_freq": -2.5909
+      },
+      {
+        "rank": 43,
+        "word": "he",
+        "count": 397,
+        "freq": 0.00236252,
+        "log_rank": 1.6335,
+        "log_freq": -2.6266
+      },
+      {
+        "rank": 44,
+        "word": "at",
+        "count": 390,
+        "freq": 0.00232086,
+        "log_rank": 1.6435,
+        "log_freq": -2.6344
+      },
+      {
+        "rank": 45,
+        "word": "abhidhamma",
+        "count": 387,
+        "freq": 0.00230301,
+        "log_rank": 1.6532,
+        "log_freq": -2.6377
+      },
+      {
+        "rank": 46,
+        "word": "called",
+        "count": 381,
+        "freq": 0.0022673,
+        "log_rank": 1.6628,
+        "log_freq": -2.6445
+      },
+      {
+        "rank": 47,
+        "word": "only",
+        "count": 367,
+        "freq": 0.00218399,
+        "log_rank": 1.6721,
+        "log_freq": -2.6607
+      },
+      {
+        "rank": 48,
+        "word": "arise",
+        "count": 366,
+        "freq": 0.00217804,
+        "log_rank": 1.6812,
+        "log_freq": -2.6619
+      },
+      {
+        "rank": 49,
+        "word": "their",
+        "count": 356,
+        "freq": 0.00211853,
+        "log_rank": 1.6902,
+        "log_freq": -2.674
+      },
+      {
+        "rank": 50,
+        "word": "factors",
+        "count": 353,
+        "freq": 0.00210068,
+        "log_rank": 1.699,
+        "log_freq": -2.6776
+      },
+      {
+        "rank": 51,
+        "word": "when",
+        "count": 337,
+        "freq": 0.00200546,
+        "log_rank": 1.7076,
+        "log_freq": -2.6978
+      },
+      {
+        "rank": 52,
+        "word": "but",
+        "count": 334,
+        "freq": 0.00198761,
+        "log_rank": 1.716,
+        "log_freq": -2.7017
+      },
+      {
+        "rank": 53,
+        "word": "feeling",
+        "count": 331,
+        "freq": 0.00196976,
+        "log_rank": 1.7243,
+        "log_freq": -2.7056
+      },
+      {
+        "rank": 54,
+        "word": "because",
+        "count": 329,
+        "freq": 0.00195786,
+        "log_rank": 1.7324,
+        "log_freq": -2.7082
+      },
+      {
+        "rank": 55,
+        "word": "sphere",
+        "count": 327,
+        "freq": 0.00194595,
+        "log_rank": 1.7404,
+        "log_freq": -2.7109
+      },
+      {
+        "rank": 56,
+        "word": "first",
+        "count": 325,
+        "freq": 0.00193405,
+        "log_rank": 1.7482,
+        "log_freq": -2.7135
+      },
+      {
+        "rank": 57,
+        "word": "citta",
+        "count": 324,
+        "freq": 0.0019281,
+        "log_rank": 1.7559,
+        "log_freq": -2.7149
+      },
+      {
+        "rank": 58,
+        "word": "knowledge",
+        "count": 320,
+        "freq": 0.0019043,
+        "log_rank": 1.7634,
+        "log_freq": -2.7203
+      },
+      {
+        "rank": 59,
+        "word": "door",
+        "count": 318,
+        "freq": 0.0018924,
+        "log_rank": 1.7709,
+        "log_freq": -2.723
+      },
+      {
+        "rank": 60,
+        "word": "so",
+        "count": 311,
+        "freq": 0.00185074,
+        "log_rank": 1.7782,
+        "log_freq": -2.7327
+      },
+      {
+        "rank": 61,
+        "word": "has",
+        "count": 307,
+        "freq": 0.00182694,
+        "log_rank": 1.7853,
+        "log_freq": -2.7383
+      },
+      {
+        "rank": 62,
+        "word": "condition",
+        "count": 301,
+        "freq": 0.00179123,
+        "log_rank": 1.7924,
+        "log_freq": -2.7468
+      },
+      {
+        "rank": 63,
+        "word": "other",
+        "count": 299,
+        "freq": 0.00177933,
+        "log_rank": 1.7993,
+        "log_freq": -2.7497
+      },
+      {
+        "rank": 64,
+        "word": "ti",
+        "count": 298,
+        "freq": 0.00177338,
+        "log_rank": 1.8062,
+        "log_freq": -2.7512
+      },
+      {
+        "rank": 65,
+        "word": "body",
+        "count": 296,
+        "freq": 0.00176147,
+        "log_rank": 1.8129,
+        "log_freq": -2.7541
+      },
+      {
+        "rank": 66,
+        "word": "accompanied",
+        "count": 295,
+        "freq": 0.00175552,
+        "log_rank": 1.8195,
+        "log_freq": -2.7556
+      },
+      {
+        "rank": 67,
+        "word": "thus",
+        "count": 290,
+        "freq": 0.00172577,
+        "log_rank": 1.8261,
+        "log_freq": -2.763
+      },
+      {
+        "rank": 68,
+        "word": "life",
+        "count": 287,
+        "freq": 0.00170792,
+        "log_rank": 1.8325,
+        "log_freq": -2.7675
+      },
+      {
+        "rank": 69,
+        "word": "phenomena",
+        "count": 286,
+        "freq": 0.00170197,
+        "log_rank": 1.8388,
+        "log_freq": -2.769
+      },
+      {
+        "rank": 70,
+        "word": "process",
+        "count": 280,
+        "freq": 0.00166626,
+        "log_rank": 1.8451,
+        "log_freq": -2.7783
+      },
+      {
+        "rank": 71,
+        "word": "path",
+        "count": 280,
+        "freq": 0.00166626,
+        "log_rank": 1.8513,
+        "log_freq": -2.7783
+      },
+      {
+        "rank": 72,
+        "word": "into",
+        "count": 279,
+        "freq": 0.00166031,
+        "log_rank": 1.8573,
+        "log_freq": -2.7798
+      },
+      {
+        "rank": 73,
+        "word": "according",
+        "count": 275,
+        "freq": 0.00163651,
+        "log_rank": 1.8633,
+        "log_freq": -2.7861
+      },
+      {
+        "rank": 74,
+        "word": "means",
+        "count": 274,
+        "freq": 0.00163055,
+        "log_rank": 1.8692,
+        "log_freq": -2.7877
+      },
+      {
+        "rank": 75,
+        "word": "moment",
+        "count": 268,
+        "freq": 0.00159485,
+        "log_rank": 1.8751,
+        "log_freq": -2.7973
+      },
+      {
+        "rank": 76,
+        "word": "way",
+        "count": 263,
+        "freq": 0.00156509,
+        "log_rank": 1.8808,
+        "log_freq": -2.8055
+      },
+      {
+        "rank": 77,
+        "word": "also",
+        "count": 261,
+        "freq": 0.00155319,
+        "log_rank": 1.8865,
+        "log_freq": -2.8088
+      },
+      {
+        "rank": 78,
+        "word": "such",
+        "count": 258,
+        "freq": 0.00153534,
+        "log_rank": 1.8921,
+        "log_freq": -2.8138
+      },
+      {
+        "rank": 79,
+        "word": "thought",
+        "count": 253,
+        "freq": 0.00150558,
+        "log_rank": 1.8976,
+        "log_freq": -2.8223
+      },
+      {
+        "rank": 80,
+        "word": "pa",
+        "count": 252,
+        "freq": 0.00149963,
+        "log_rank": 1.9031,
+        "log_freq": -2.824
+      },
+      {
+        "rank": 81,
+        "word": "who",
+        "count": 250,
+        "freq": 0.00148773,
+        "log_rank": 1.9085,
+        "log_freq": -2.8275
+      },
+      {
+        "rank": 82,
+        "word": "objects",
+        "count": 246,
+        "freq": 0.00146393,
+        "log_rank": 1.9138,
+        "log_freq": -2.8345
+      },
+      {
+        "rank": 83,
+        "word": "his",
+        "count": 245,
+        "freq": 0.00145798,
+        "log_rank": 1.9191,
+        "log_freq": -2.8362
+      },
+      {
+        "rank": 84,
+        "word": "born",
+        "count": 242,
+        "freq": 0.00144012,
+        "log_rank": 1.9243,
+        "log_freq": -2.8416
+      },
+      {
+        "rank": 85,
+        "word": "arises",
+        "count": 238,
+        "freq": 0.00141632,
+        "log_rank": 1.9294,
+        "log_freq": -2.8488
+      },
+      {
+        "rank": 86,
+        "word": "those",
+        "count": 236,
+        "freq": 0.00140442,
+        "log_rank": 1.9345,
+        "log_freq": -2.8525
+      },
+      {
+        "rank": 87,
+        "word": "etc",
+        "count": 233,
+        "freq": 0.00138657,
+        "log_rank": 1.9395,
+        "log_freq": -2.8581
+      },
+      {
+        "rank": 88,
+        "word": "eva",
+        "count": 226,
+        "freq": 0.00134491,
+        "log_rank": 1.9445,
+        "log_freq": -2.8713
+      },
+      {
+        "rank": 89,
+        "word": "non",
+        "count": 224,
+        "freq": 0.00133301,
+        "log_rank": 1.9494,
+        "log_freq": -2.8752
+      },
+      {
+        "rank": 90,
+        "word": "state",
+        "count": 222,
+        "freq": 0.00132111,
+        "log_rank": 1.9542,
+        "log_freq": -2.8791
+      },
+      {
+        "rank": 91,
+        "word": "pi",
+        "count": 216,
+        "freq": 0.0012854,
+        "log_rank": 1.959,
+        "log_freq": -2.891
+      },
+      {
+        "rank": 92,
+        "word": "see",
+        "count": 212,
+        "freq": 0.0012616,
+        "log_rank": 1.9638,
+        "log_freq": -2.8991
+      },
+      {
+        "rank": 93,
+        "word": "kinds",
+        "count": 211,
+        "freq": 0.00125565,
+        "log_rank": 1.9685,
+        "log_freq": -2.9011
+      },
+      {
+        "rank": 94,
+        "word": "may",
+        "count": 211,
+        "freq": 0.00125565,
+        "log_rank": 1.9731,
+        "log_freq": -2.9011
+      },
+      {
+        "rank": 95,
+        "word": "function",
+        "count": 210,
+        "freq": 0.0012497,
+        "log_rank": 1.9777,
+        "log_freq": -2.9032
+      },
+      {
+        "rank": 96,
+        "word": "javana",
+        "count": 205,
+        "freq": 0.00121994,
+        "log_rank": 1.9823,
+        "log_freq": -2.9137
+      },
+      {
+        "rank": 97,
+        "word": "have",
+        "count": 205,
+        "freq": 0.00121994,
+        "log_rank": 1.9868,
+        "log_freq": -2.9137
+      },
+      {
+        "rank": 98,
+        "word": "eye",
+        "count": 203,
+        "freq": 0.00120804,
+        "log_rank": 1.9912,
+        "log_freq": -2.9179
+      },
+      {
+        "rank": 99,
+        "word": "existence",
+        "count": 199,
+        "freq": 0.00118423,
+        "log_rank": 1.9956,
+        "log_freq": -2.9266
+      },
+      {
+        "rank": 100,
+        "word": "rebirth",
+        "count": 199,
+        "freq": 0.00118423,
+        "log_rank": 2.0,
+        "log_freq": -2.9266
+      },
+      {
+        "rank": 101,
+        "word": "six",
+        "count": 196,
+        "freq": 0.00116638,
+        "log_rank": 2.0043,
+        "log_freq": -2.9332
+      },
+      {
+        "rank": 102,
+        "word": "both",
+        "count": 196,
+        "freq": 0.00116638,
+        "log_rank": 2.0086,
+        "log_freq": -2.9332
+      },
+      {
+        "rank": 103,
+        "word": "here",
+        "count": 196,
+        "freq": 0.00116638,
+        "log_rank": 2.0128,
+        "log_freq": -2.9332
+      },
+      {
+        "rank": 104,
+        "word": "element",
+        "count": 195,
+        "freq": 0.00116043,
+        "log_rank": 2.017,
+        "log_freq": -2.9354
+      },
+      {
+        "rank": 105,
+        "word": "wholesome",
+        "count": 193,
+        "freq": 0.00114853,
+        "log_rank": 2.0212,
+        "log_freq": -2.9399
+      },
+      {
+        "rank": 106,
+        "word": "vi",
+        "count": 193,
+        "freq": 0.00114853,
+        "log_rank": 2.0253,
+        "log_freq": -2.9399
+      },
+      {
+        "rank": 107,
+        "word": "ii",
+        "count": 193,
+        "freq": 0.00114853,
+        "log_rank": 2.0294,
+        "log_freq": -2.9399
+      },
+      {
+        "rank": 108,
+        "word": "roots",
+        "count": 191,
+        "freq": 0.00113663,
+        "log_rank": 2.0334,
+        "log_freq": -2.9444
+      },
+      {
+        "rank": 109,
+        "word": "eight",
+        "count": 191,
+        "freq": 0.00113663,
+        "log_rank": 2.0374,
+        "log_freq": -2.9444
+      },
+      {
+        "rank": 110,
+        "word": "through",
+        "count": 191,
+        "freq": 0.00113663,
+        "log_rank": 2.0414,
+        "log_freq": -2.9444
+      },
+      {
+        "rank": 111,
+        "word": "supramundane",
+        "count": 189,
+        "freq": 0.00112473,
+        "log_rank": 2.0453,
+        "log_freq": -2.949
+      },
+      {
+        "rank": 112,
+        "word": "present",
+        "count": 189,
+        "freq": 0.00112473,
+        "log_rank": 2.0492,
+        "log_freq": -2.949
+      },
+      {
+        "rank": 113,
+        "word": "should",
+        "count": 188,
+        "freq": 0.00111877,
+        "log_rank": 2.0531,
+        "log_freq": -2.9513
+      },
+      {
+        "rank": 114,
+        "word": "resultant",
+        "count": 184,
+        "freq": 0.00109497,
+        "log_rank": 2.0569,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 115,
+        "word": "iii",
+        "count": 184,
+        "freq": 0.00109497,
+        "log_rank": 2.0607,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 116,
+        "word": "associated",
+        "count": 184,
+        "freq": 0.00109497,
+        "log_rank": 2.0645,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 117,
+        "word": "guide",
+        "count": 184,
+        "freq": 0.00109497,
+        "log_rank": 2.0682,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 118,
+        "word": "pana",
+        "count": 184,
+        "freq": 0.00109497,
+        "log_rank": 2.0719,
+        "log_freq": -2.9606
+      },
+      {
+        "rank": 119,
+        "word": "base",
+        "count": 183,
+        "freq": 0.00108902,
+        "log_rank": 2.0755,
+        "log_freq": -2.963
+      },
+      {
+        "rank": 120,
+        "word": "namely",
+        "count": 179,
+        "freq": 0.00106522,
+        "log_rank": 2.0792,
+        "log_freq": -2.9726
+      },
+      {
+        "rank": 121,
+        "word": "moral",
+        "count": 177,
+        "freq": 0.00105331,
+        "log_rank": 2.0828,
+        "log_freq": -2.9774
+      },
+      {
+        "rank": 122,
+        "word": "them",
+        "count": 176,
+        "freq": 0.00104736,
+        "log_rank": 2.0864,
+        "log_freq": -2.9799
+      },
+      {
+        "rank": 123,
+        "word": "jhàna",
+        "count": 176,
+        "freq": 0.00104736,
+        "log_rank": 2.0899,
+        "log_freq": -2.9799
+      },
+      {
+        "rank": 124,
+        "word": "right",
+        "count": 173,
+        "freq": 0.00102951,
+        "log_rank": 2.0934,
+        "log_freq": -2.9874
+      },
+      {
+        "rank": 125,
+        "word": "will",
+        "count": 173,
+        "freq": 0.00102951,
+        "log_rank": 2.0969,
+        "log_freq": -2.9874
+      },
+      {
+        "rank": 126,
+        "word": "unwholesome",
+        "count": 172,
+        "freq": 0.00102356,
+        "log_rank": 2.1004,
+        "log_freq": -2.9899
+      },
+      {
+        "rank": 127,
+        "word": "without",
+        "count": 172,
+        "freq": 0.00102356,
+        "log_rank": 2.1038,
+        "log_freq": -2.9899
+      },
+      {
+        "rank": 128,
+        "word": "no",
+        "count": 171,
+        "freq": 0.00101761,
+        "log_rank": 2.1072,
+        "log_freq": -2.9924
+      },
+      {
+        "rank": 129,
+        "word": "great",
+        "count": 170,
+        "freq": 0.00101166,
+        "log_rank": 2.1106,
+        "log_freq": -2.995
+      },
+      {
+        "rank": 130,
+        "word": "plane",
+        "count": 169,
+        "freq": 0.00100571,
+        "log_rank": 2.1139,
+        "log_freq": -2.9975
+      },
+      {
+        "rank": 131,
+        "word": "conditioned",
+        "count": 169,
+        "freq": 0.00100571,
+        "log_rank": 2.1173,
+        "log_freq": -2.9975
+      },
+      {
+        "rank": 132,
+        "word": "buddha",
+        "count": 169,
+        "freq": 0.00100571,
+        "log_rank": 2.1206,
+        "log_freq": -2.9975
+      },
+      {
+        "rank": 133,
+        "word": "same",
+        "count": 168,
+        "freq": 0.00099976,
+        "log_rank": 2.1239,
+        "log_freq": -3.0001
+      },
+      {
+        "rank": 134,
+        "word": "any",
+        "count": 168,
+        "freq": 0.00099976,
+        "log_rank": 2.1271,
+        "log_freq": -3.0001
+      },
+      {
+        "rank": 135,
+        "word": "characteristic",
+        "count": 161,
+        "freq": 0.0009581,
+        "log_rank": 2.1303,
+        "log_freq": -3.0186
+      },
+      {
+        "rank": 136,
+        "word": "found",
+        "count": 158,
+        "freq": 0.00094025,
+        "log_rank": 2.1335,
+        "log_freq": -3.0268
+      },
+      {
+        "rank": 137,
+        "word": "wrong",
+        "count": 157,
+        "freq": 0.0009343,
+        "log_rank": 2.1367,
+        "log_freq": -3.0295
+      },
+      {
+        "rank": 138,
+        "word": "compendium",
+        "count": 155,
+        "freq": 0.00092239,
+        "log_rank": 2.1399,
+        "log_freq": -3.0351
+      },
+      {
+        "rank": 139,
+        "word": "arising",
+        "count": 155,
+        "freq": 0.00092239,
+        "log_rank": 2.143,
+        "log_freq": -3.0351
+      },
+      {
+        "rank": 140,
+        "word": "cause",
+        "count": 154,
+        "freq": 0.00091644,
+        "log_rank": 2.1461,
+        "log_freq": -3.0379
+      },
+      {
+        "rank": 141,
+        "word": "beings",
+        "count": 153,
+        "freq": 0.00091049,
+        "log_rank": 2.1492,
+        "log_freq": -3.0407
+      },
+      {
+        "rank": 142,
+        "word": "seven",
+        "count": 153,
+        "freq": 0.00091049,
+        "log_rank": 2.1523,
+        "log_freq": -3.0407
+      },
+      {
+        "rank": 143,
+        "word": "view",
+        "count": 151,
+        "freq": 0.00089859,
+        "log_rank": 2.1553,
+        "log_freq": -3.0464
+      },
+      {
+        "rank": 144,
+        "word": "death",
+        "count": 150,
+        "freq": 0.00089264,
+        "log_rank": 2.1584,
+        "log_freq": -3.0493
+      },
+      {
+        "rank": 145,
+        "word": "does",
+        "count": 149,
+        "freq": 0.00088669,
+        "log_rank": 2.1614,
+        "log_freq": -3.0522
+      },
+      {
+        "rank": 146,
+        "word": "like",
+        "count": 149,
+        "freq": 0.00088669,
+        "log_rank": 2.1644,
+        "log_freq": -3.0522
+      },
+      {
+        "rank": 147,
+        "word": "råpa",
+        "count": 149,
+        "freq": 0.00088669,
+        "log_rank": 2.1673,
+        "log_freq": -3.0522
+      },
+      {
+        "rank": 148,
+        "word": "equanimity",
+        "count": 148,
+        "freq": 0.00088074,
+        "log_rank": 2.1703,
+        "log_freq": -3.0552
+      },
+      {
+        "rank": 149,
+        "word": "iv",
+        "count": 148,
+        "freq": 0.00088074,
+        "log_rank": 2.1732,
+        "log_freq": -3.0552
+      },
+      {
+        "rank": 150,
+        "word": "each",
+        "count": 145,
+        "freq": 0.00086288,
+        "log_rank": 2.1761,
+        "log_freq": -3.064
+      },
+      {
+        "rank": 151,
+        "word": "do",
+        "count": 144,
+        "freq": 0.00085693,
+        "log_rank": 2.179,
+        "log_freq": -3.0671
+      },
+      {
+        "rank": 152,
+        "word": "being",
+        "count": 142,
+        "freq": 0.00084503,
+        "log_rank": 2.1818,
+        "log_freq": -3.0731
+      },
+      {
+        "rank": 153,
+        "word": "joy",
+        "count": 141,
+        "freq": 0.00083908,
+        "log_rank": 2.1847,
+        "log_freq": -3.0762
+      },
+      {
+        "rank": 154,
+        "word": "together",
+        "count": 137,
+        "freq": 0.00081528,
+        "log_rank": 2.1875,
+        "log_freq": -3.0887
+      },
+      {
+        "rank": 155,
+        "word": "faculty",
+        "count": 136,
+        "freq": 0.00080933,
+        "log_rank": 2.1903,
+        "log_freq": -3.0919
+      },
+      {
+        "rank": 156,
+        "word": "time",
+        "count": 135,
+        "freq": 0.00080338,
+        "log_rank": 2.1931,
+        "log_freq": -3.0951
+      },
+      {
+        "rank": 157,
+        "word": "jhána",
+        "count": 135,
+        "freq": 0.00080338,
+        "log_rank": 2.1959,
+        "log_freq": -3.0951
+      },
+      {
+        "rank": 158,
+        "word": "conditions",
+        "count": 134,
+        "freq": 0.00079742,
+        "log_rank": 2.1987,
+        "log_freq": -3.0983
+      },
+      {
+        "rank": 159,
+        "word": "after",
+        "count": 131,
+        "freq": 0.00077957,
+        "log_rank": 2.2014,
+        "log_freq": -3.1081
+      },
+      {
+        "rank": 160,
+        "word": "insight",
+        "count": 130,
+        "freq": 0.00077362,
+        "log_rank": 2.2041,
+        "log_freq": -3.1115
+      },
+      {
+        "rank": 161,
+        "word": "was",
+        "count": 130,
+        "freq": 0.00077362,
+        "log_rank": 2.2068,
+        "log_freq": -3.1115
+      },
+      {
+        "rank": 162,
+        "word": "physical",
+        "count": 130,
+        "freq": 0.00077362,
+        "log_rank": 2.2095,
+        "log_freq": -3.1115
+      },
+      {
+        "rank": 163,
+        "word": "cetasikas",
+        "count": 129,
+        "freq": 0.00076767,
+        "log_rank": 2.2122,
+        "log_freq": -3.1148
+      },
+      {
+        "rank": 164,
+        "word": "then",
+        "count": 128,
+        "freq": 0.00076172,
+        "log_rank": 2.2148,
+        "log_freq": -3.1182
+      },
+      {
+        "rank": 165,
+        "word": "term",
+        "count": 128,
+        "freq": 0.00076172,
+        "log_rank": 2.2175,
+        "log_freq": -3.1182
+      },
+      {
+        "rank": 166,
+        "word": "things",
+        "count": 127,
+        "freq": 0.00075577,
+        "log_rank": 2.2201,
+        "log_freq": -3.1216
+      },
+      {
+        "rank": 167,
+        "word": "groups",
+        "count": 126,
+        "freq": 0.00074982,
+        "log_rank": 2.2227,
+        "log_freq": -3.125
+      },
+      {
+        "rank": 168,
+        "word": "chapter",
+        "count": 126,
+        "freq": 0.00074982,
+        "log_rank": 2.2253,
+        "log_freq": -3.125
+      },
+      {
+        "rank": 169,
+        "word": "nàma",
+        "count": 126,
+        "freq": 0.00074982,
+        "log_rank": 2.2279,
+        "log_freq": -3.125
+      },
+      {
+        "rank": 170,
+        "word": "wisdom",
+        "count": 125,
+        "freq": 0.00074387,
+        "log_rank": 2.2304,
+        "log_freq": -3.1285
+      },
+      {
+        "rank": 171,
+        "word": "past",
+        "count": 125,
+        "freq": 0.00074387,
+        "log_rank": 2.233,
+        "log_freq": -3.1285
+      },
+      {
+        "rank": 172,
+        "word": "hatred",
+        "count": 124,
+        "freq": 0.00073792,
+        "log_rank": 2.2355,
+        "log_freq": -3.132
+      },
+      {
+        "rank": 173,
+        "word": "beautiful",
+        "count": 123,
+        "freq": 0.00073196,
+        "log_rank": 2.238,
+        "log_freq": -3.1355
+      },
+      {
+        "rank": 174,
+        "word": "second",
+        "count": 123,
+        "freq": 0.00073196,
+        "log_rank": 2.2405,
+        "log_freq": -3.1355
+      },
+      {
+        "rank": 175,
+        "word": "used",
+        "count": 122,
+        "freq": 0.00072601,
+        "log_rank": 2.243,
+        "log_freq": -3.1391
+      },
+      {
+        "rank": 176,
+        "word": "good",
+        "count": 122,
+        "freq": 0.00072601,
+        "log_rank": 2.2455,
+        "log_freq": -3.1391
+      },
+      {
+        "rank": 177,
+        "word": "pleasure",
+        "count": 122,
+        "freq": 0.00072601,
+        "log_rank": 2.248,
+        "log_freq": -3.1391
+      },
+      {
+        "rank": 178,
+        "word": "greed",
+        "count": 121,
+        "freq": 0.00072006,
+        "log_rank": 2.2504,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 179,
+        "word": "doors",
+        "count": 121,
+        "freq": 0.00072006,
+        "log_rank": 2.2529,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 180,
+        "word": "twenty",
+        "count": 121,
+        "freq": 0.00072006,
+        "log_rank": 2.2553,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 181,
+        "word": "moments",
+        "count": 121,
+        "freq": 0.00072006,
+        "log_rank": 2.2577,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 182,
+        "word": "immoral",
+        "count": 121,
+        "freq": 0.00072006,
+        "log_rank": 2.2601,
+        "log_freq": -3.1426
+      },
+      {
+        "rank": 183,
+        "word": "rooted",
+        "count": 120,
+        "freq": 0.00071411,
+        "log_rank": 2.2625,
+        "log_freq": -3.1462
+      },
+      {
+        "rank": 184,
+        "word": "form",
+        "count": 120,
+        "freq": 0.00071411,
+        "log_rank": 2.2648,
+        "log_freq": -3.1462
+      },
+      {
+        "rank": 185,
+        "word": "kusala",
+        "count": 120,
+        "freq": 0.00071411,
+        "log_rank": 2.2672,
+        "log_freq": -3.1462
+      },
+      {
+        "rank": 186,
+        "word": "functional",
+        "count": 118,
+        "freq": 0.00070221,
+        "log_rank": 2.2695,
+        "log_freq": -3.1535
+      },
+      {
+        "rank": 187,
+        "word": "mindfulness",
+        "count": 118,
+        "freq": 0.00070221,
+        "log_rank": 2.2718,
+        "log_freq": -3.1535
+      },
+      {
+        "rank": 188,
+        "word": "case",
+        "count": 118,
+        "freq": 0.00070221,
+        "log_rank": 2.2742,
+        "log_freq": -3.1535
+      },
+      {
+        "rank": 189,
+        "word": "craving",
+        "count": 116,
+        "freq": 0.00069031,
+        "log_rank": 2.2765,
+        "log_freq": -3.161
+      },
+      {
+        "rank": 190,
+        "word": "ear",
+        "count": 115,
+        "freq": 0.00068436,
+        "log_rank": 2.2788,
+        "log_freq": -3.1647
+      },
+      {
+        "rank": 191,
+        "word": "known",
+        "count": 114,
+        "freq": 0.00067841,
+        "log_rank": 2.281,
+        "log_freq": -3.1685
+      },
+      {
+        "rank": 192,
+        "word": "different",
+        "count": 113,
+        "freq": 0.00067245,
+        "log_rank": 2.2833,
+        "log_freq": -3.1723
+      },
+      {
+        "rank": 193,
+        "word": "attachment",
+        "count": 112,
+        "freq": 0.0006665,
+        "log_rank": 2.2856,
+        "log_freq": -3.1762
+      },
+      {
+        "rank": 194,
+        "word": "concentration",
+        "count": 112,
+        "freq": 0.0006665,
+        "log_rank": 2.2878,
+        "log_freq": -3.1762
+      },
+      {
+        "rank": 195,
+        "word": "functions",
+        "count": 111,
+        "freq": 0.00066055,
+        "log_rank": 2.29,
+        "log_freq": -3.1801
+      },
+      {
+        "rank": 196,
+        "word": "application",
+        "count": 111,
+        "freq": 0.00066055,
+        "log_rank": 2.2923,
+        "log_freq": -3.1801
+      },
+      {
+        "rank": 197,
+        "word": "if",
+        "count": 111,
+        "freq": 0.00066055,
+        "log_rank": 2.2945,
+        "log_freq": -3.1801
+      },
+      {
+        "rank": 198,
+        "word": "delusion",
+        "count": 110,
+        "freq": 0.0006546,
+        "log_rank": 2.2967,
+        "log_freq": -3.184
+      },
+      {
+        "rank": 199,
+        "word": "world",
+        "count": 110,
+        "freq": 0.0006546,
+        "log_rank": 2.2989,
+        "log_freq": -3.184
+      },
+      {
+        "rank": 200,
+        "word": "resultants",
+        "count": 110,
+        "freq": 0.0006546,
+        "log_rank": 2.301,
+        "log_freq": -3.184
+      }
+    ],
+    "pitaka_vinaya_all": [
+      {
+        "rank": 1,
+        "word": "the",
+        "count": 94732,
+        "freq": 0.07141866,
+        "log_rank": 0.0,
+        "log_freq": -1.1462
+      },
+      {
+        "rank": 2,
+        "word": "of",
+        "count": 42622,
+        "freq": 0.03213282,
+        "log_rank": 0.301,
+        "log_freq": -1.4931
+      },
+      {
+        "rank": 3,
+        "word": "and",
+        "count": 38569,
+        "freq": 0.02907725,
+        "log_rank": 0.4771,
+        "log_freq": -1.5364
+      },
+      {
+        "rank": 4,
+        "word": "to",
+        "count": 29370,
+        "freq": 0.02214211,
+        "log_rank": 0.6021,
+        "log_freq": -1.6548
+      },
+      {
+        "rank": 5,
+        "word": "is",
+        "count": 26699,
+        "freq": 0.02012843,
+        "log_rank": 0.699,
+        "log_freq": -1.6962
+      },
+      {
+        "rank": 6,
+        "word": "he",
+        "count": 23609,
+        "freq": 0.01779888,
+        "log_rank": 0.7782,
+        "log_freq": -1.7496
+      },
+      {
+        "rank": 7,
+        "word": "in",
+        "count": 20500,
+        "freq": 0.015455,
+        "log_rank": 0.8451,
+        "log_freq": -1.8109
+      },
+      {
+        "rank": 8,
+        "word": "it",
+        "count": 17927,
+        "freq": 0.0135152,
+        "log_rank": 0.9031,
+        "log_freq": -1.8692
+      },
+      {
+        "rank": 9,
+        "word": "for",
+        "count": 14127,
+        "freq": 0.01065038,
+        "log_rank": 0.9542,
+        "log_freq": -1.9726
+      },
+      {
+        "rank": 10,
+        "word": "one",
+        "count": 14111,
+        "freq": 0.01063831,
+        "log_rank": 1.0,
+        "log_freq": -1.9731
+      },
+      {
+        "rank": 11,
+        "word": "that",
+        "count": 13025,
+        "freq": 0.00981958,
+        "log_rank": 1.0414,
+        "log_freq": -2.0079
+      },
+      {
+        "rank": 12,
+        "word": "an",
+        "count": 12797,
+        "freq": 0.00964769,
+        "log_rank": 1.0792,
+        "log_freq": -2.0156
+      },
+      {
+        "rank": 13,
+        "word": "if",
+        "count": 11683,
+        "freq": 0.00880784,
+        "log_rank": 1.1139,
+        "log_freq": -2.0551
+      },
+      {
+        "rank": 14,
+        "word": "with",
+        "count": 11406,
+        "freq": 0.00859901,
+        "log_rank": 1.1461,
+        "log_freq": -2.0656
+      },
+      {
+        "rank": 15,
+        "word": "this",
+        "count": 10933,
+        "freq": 0.00824241,
+        "log_rank": 1.1761,
+        "log_freq": -2.0839
+      },
+      {
+        "rank": 16,
+        "word": "not",
+        "count": 10684,
+        "freq": 0.00805469,
+        "log_rank": 1.2041,
+        "log_freq": -2.094
+      },
+      {
+        "rank": 17,
+        "word": "monks",
+        "count": 8552,
+        "freq": 0.00644737,
+        "log_rank": 1.2304,
+        "log_freq": -2.1906
+      },
+      {
+        "rank": 18,
+        "word": "there",
+        "count": 8502,
+        "freq": 0.00640968,
+        "log_rank": 1.2553,
+        "log_freq": -2.1932
+      },
+      {
+        "rank": 19,
+        "word": "who",
+        "count": 8317,
+        "freq": 0.0062702,
+        "log_rank": 1.2788,
+        "log_freq": -2.2027
+      },
+      {
+        "rank": 20,
+        "word": "on",
+        "count": 8314,
+        "freq": 0.00626794,
+        "log_rank": 1.301,
+        "log_freq": -2.2029
+      },
+      {
+        "rank": 21,
+        "word": "you",
+        "count": 8045,
+        "freq": 0.00606514,
+        "log_rank": 1.3222,
+        "log_freq": -2.2172
+      },
+      {
+        "rank": 22,
+        "word": "as",
+        "count": 7733,
+        "freq": 0.00582993,
+        "log_rank": 1.3424,
+        "log_freq": -2.2343
+      },
+      {
+        "rank": 23,
+        "word": "monk",
+        "count": 7648,
+        "freq": 0.00576584,
+        "log_rank": 1.3617,
+        "log_freq": -2.2391
+      },
+      {
+        "rank": 24,
+        "word": "are",
+        "count": 7622,
+        "freq": 0.00574624,
+        "log_rank": 1.3802,
+        "log_freq": -2.2406
+      },
+      {
+        "rank": 25,
+        "word": "has",
+        "count": 7309,
+        "freq": 0.00551027,
+        "log_rank": 1.3979,
+        "log_freq": -2.2588
+      },
+      {
+        "rank": 26,
+        "word": "they",
+        "count": 7099,
+        "freq": 0.00535195,
+        "log_rank": 1.415,
+        "log_freq": -2.2715
+      },
+      {
+        "rank": 27,
+        "word": "be",
+        "count": 7003,
+        "freq": 0.00527958,
+        "log_rank": 1.4314,
+        "log_freq": -2.2774
+      },
+      {
+        "rank": 28,
+        "word": "should",
+        "count": 6943,
+        "freq": 0.00523434,
+        "log_rank": 1.4472,
+        "log_freq": -2.2811
+      },
+      {
+        "rank": 29,
+        "word": "or",
+        "count": 6857,
+        "freq": 0.00516951,
+        "log_rank": 1.4624,
+        "log_freq": -2.2866
+      },
+      {
+        "rank": 30,
+        "word": "by",
+        "count": 6621,
+        "freq": 0.00499159,
+        "log_rank": 1.4771,
+        "log_freq": -2.3018
+      },
+      {
+        "rank": 31,
+        "word": "from",
+        "count": 6592,
+        "freq": 0.00496972,
+        "log_rank": 1.4914,
+        "log_freq": -2.3037
+      },
+      {
+        "rank": 32,
+        "word": "was",
+        "count": 6224,
+        "freq": 0.00469229,
+        "log_rank": 1.5051,
+        "log_freq": -2.3286
+      },
+      {
+        "rank": 33,
+        "word": "when",
+        "count": 6109,
+        "freq": 0.00460559,
+        "log_rank": 1.5185,
+        "log_freq": -2.3367
+      },
+      {
+        "rank": 34,
+        "word": "at",
+        "count": 5863,
+        "freq": 0.00442013,
+        "log_rank": 1.5315,
+        "log_freq": -2.3546
+      },
+      {
+        "rank": 35,
+        "word": "then",
+        "count": 5815,
+        "freq": 0.00438394,
+        "log_rank": 1.5441,
+        "log_freq": -2.3581
+      },
+      {
+        "rank": 36,
+        "word": "his",
+        "count": 5648,
+        "freq": 0.00425804,
+        "log_rank": 1.5563,
+        "log_freq": -2.3708
+      },
+      {
+        "rank": 37,
+        "word": "buddha",
+        "count": 4834,
+        "freq": 0.00364436,
+        "log_rank": 1.5682,
+        "log_freq": -2.4384
+      },
+      {
+        "rank": 38,
+        "word": "commits",
+        "count": 4817,
+        "freq": 0.00363155,
+        "log_rank": 1.5798,
+        "log_freq": -2.4399
+      },
+      {
+        "rank": 39,
+        "word": "sangha",
+        "count": 4789,
+        "freq": 0.00361044,
+        "log_rank": 1.5911,
+        "log_freq": -2.4424
+      },
+      {
+        "rank": 40,
+        "word": "him",
+        "count": 4684,
+        "freq": 0.00353128,
+        "log_rank": 1.6021,
+        "log_freq": -2.4521
+      },
+      {
+        "rank": 41,
+        "word": "she",
+        "count": 4545,
+        "freq": 0.00342649,
+        "log_rank": 1.6128,
+        "log_freq": -2.4652
+      },
+      {
+        "rank": 42,
+        "word": "but",
+        "count": 4524,
+        "freq": 0.00341065,
+        "log_rank": 1.6232,
+        "log_freq": -2.4672
+      },
+      {
+        "rank": 43,
+        "word": "what",
+        "count": 4469,
+        "freq": 0.00336919,
+        "log_rank": 1.6335,
+        "log_freq": -2.4725
+      },
+      {
+        "rank": 44,
+        "word": "entailing",
+        "count": 4354,
+        "freq": 0.00328249,
+        "log_rank": 1.6435,
+        "log_freq": -2.4838
+      },
+      {
+        "rank": 45,
+        "word": "have",
+        "count": 4192,
+        "freq": 0.00316036,
+        "log_rank": 1.6532,
+        "log_freq": -2.5003
+      },
+      {
+        "rank": 46,
+        "word": "them",
+        "count": 3808,
+        "freq": 0.00287086,
+        "log_rank": 1.6628,
+        "log_freq": -2.542
+      },
+      {
+        "rank": 47,
+        "word": "so",
+        "count": 3752,
+        "freq": 0.00282864,
+        "log_rank": 1.6721,
+        "log_freq": -2.5484
+      },
+      {
+        "rank": 48,
+        "word": "do",
+        "count": 3491,
+        "freq": 0.00263187,
+        "log_rank": 1.6812,
+        "log_freq": -2.5797
+      },
+      {
+        "rank": 49,
+        "word": "legal",
+        "count": 3431,
+        "freq": 0.00258664,
+        "log_rank": 1.6902,
+        "log_freq": -2.5873
+      },
+      {
+        "rank": 50,
+        "word": "wrong",
+        "count": 3352,
+        "freq": 0.00252708,
+        "log_rank": 1.699,
+        "log_freq": -2.5974
+      },
+      {
+        "rank": 51,
+        "word": "conduct",
+        "count": 3315,
+        "freq": 0.00249919,
+        "log_rank": 1.7076,
+        "log_freq": -2.6022
+      },
+      {
+        "rank": 52,
+        "word": "robe",
+        "count": 3304,
+        "freq": 0.00249089,
+        "log_rank": 1.716,
+        "log_freq": -2.6036
+      },
+      {
+        "rank": 53,
+        "word": "had",
+        "count": 3261,
+        "freq": 0.00245848,
+        "log_rank": 1.7243,
+        "log_freq": -2.6093
+      },
+      {
+        "rank": 54,
+        "word": "time",
+        "count": 3241,
+        "freq": 0.0024434,
+        "log_rank": 1.7324,
+        "log_freq": -2.612
+      },
+      {
+        "rank": 55,
+        "word": "said",
+        "count": 3132,
+        "freq": 0.00236122,
+        "log_rank": 1.7404,
+        "log_freq": -2.6269
+      },
+      {
+        "rank": 56,
+        "word": "will",
+        "count": 3126,
+        "freq": 0.0023567,
+        "log_rank": 1.7482,
+        "log_freq": -2.6277
+      },
+      {
+        "rank": 57,
+        "word": "been",
+        "count": 2932,
+        "freq": 0.00221044,
+        "log_rank": 1.7559,
+        "log_freq": -2.6555
+      },
+      {
+        "rank": 58,
+        "word": "no",
+        "count": 2919,
+        "freq": 0.00220064,
+        "log_rank": 1.7634,
+        "log_freq": -2.6575
+      },
+      {
+        "rank": 59,
+        "word": "which",
+        "count": 2761,
+        "freq": 0.00208152,
+        "log_rank": 1.7709,
+        "log_freq": -2.6816
+      },
+      {
+        "rank": 60,
+        "word": "down",
+        "count": 2700,
+        "freq": 0.00203554,
+        "log_rank": 1.7782,
+        "log_freq": -2.6913
+      },
+      {
+        "rank": 61,
+        "word": "rule",
+        "count": 2693,
+        "freq": 0.00203026,
+        "log_rank": 1.7853,
+        "log_freq": -2.6924
+      },
+      {
+        "rank": 62,
+        "word": "procedure",
+        "count": 2691,
+        "freq": 0.00202875,
+        "log_rank": 1.7924,
+        "log_freq": -2.6928
+      },
+      {
+        "rank": 63,
+        "word": "those",
+        "count": 2669,
+        "freq": 0.00201216,
+        "log_rank": 1.7993,
+        "log_freq": -2.6963
+      },
+      {
+        "rank": 64,
+        "word": "two",
+        "count": 2606,
+        "freq": 0.00196467,
+        "log_rank": 1.8062,
+        "log_freq": -2.7067
+      },
+      {
+        "rank": 65,
+        "word": "how",
+        "count": 2499,
+        "freq": 0.001884,
+        "log_rank": 1.8129,
+        "log_freq": -2.7249
+      },
+      {
+        "rank": 66,
+        "word": "three",
+        "count": 2477,
+        "freq": 0.00186742,
+        "log_rank": 1.8195,
+        "log_freq": -2.7288
+      },
+      {
+        "rank": 67,
+        "word": "king",
+        "count": 2470,
+        "freq": 0.00186214,
+        "log_rank": 1.8261,
+        "log_freq": -2.73
+      },
+      {
+        "rank": 68,
+        "word": "were",
+        "count": 2434,
+        "freq": 0.001835,
+        "log_rank": 1.8325,
+        "log_freq": -2.7364
+      },
+      {
+        "rank": 69,
+        "word": "their",
+        "count": 2339,
+        "freq": 0.00176338,
+        "log_rank": 1.8388,
+        "log_freq": -2.7537
+      },
+      {
+        "rank": 70,
+        "word": "having",
+        "count": 2276,
+        "freq": 0.00171588,
+        "log_rank": 1.8451,
+        "log_freq": -2.7655
+      },
+      {
+        "rank": 71,
+        "word": "her",
+        "count": 2270,
+        "freq": 0.00171136,
+        "log_rank": 1.8513,
+        "log_freq": -2.7667
+      },
+      {
+        "rank": 72,
+        "word": "out",
+        "count": 2266,
+        "freq": 0.00170834,
+        "log_rank": 1.8573,
+        "log_freq": -2.7674
+      },
+      {
+        "rank": 73,
+        "word": "training",
+        "count": 2258,
+        "freq": 0.00170231,
+        "log_rank": 1.8633,
+        "log_freq": -2.769
+      },
+      {
+        "rank": 74,
+        "word": "see",
+        "count": 2242,
+        "freq": 0.00169025,
+        "log_rank": 1.8692,
+        "log_freq": -2.772
+      },
+      {
+        "rank": 75,
+        "word": "nuns",
+        "count": 2216,
+        "freq": 0.00167065,
+        "log_rank": 1.8751,
+        "log_freq": -2.7771
+      },
+      {
+        "rank": 76,
+        "word": "may",
+        "count": 2210,
+        "freq": 0.00166612,
+        "log_rank": 1.8808,
+        "log_freq": -2.7783
+      },
+      {
+        "rank": 77,
+        "word": "monastery",
+        "count": 2193,
+        "freq": 0.00165331,
+        "log_rank": 1.8865,
+        "log_freq": -2.7816
+      },
+      {
+        "rank": 78,
+        "word": "after",
+        "count": 2193,
+        "freq": 0.00165331,
+        "log_rank": 1.8921,
+        "log_freq": -2.7816
+      },
+      {
+        "rank": 79,
+        "word": "confession",
+        "count": 2178,
+        "freq": 0.001642,
+        "log_rank": 1.8976,
+        "log_freq": -2.7846
+      },
+      {
+        "rank": 80,
+        "word": "such",
+        "count": 2177,
+        "freq": 0.00164125,
+        "log_rank": 1.9031,
+        "log_freq": -2.7848
+      },
+      {
+        "rank": 81,
+        "word": "these",
+        "count": 2145,
+        "freq": 0.00161712,
+        "log_rank": 1.9085,
+        "log_freq": -2.7913
+      },
+      {
+        "rank": 82,
+        "word": "blessed",
+        "count": 2121,
+        "freq": 0.00159903,
+        "log_rank": 1.9138,
+        "log_freq": -2.7961
+      },
+      {
+        "rank": 83,
+        "word": "nun",
+        "count": 2096,
+        "freq": 0.00158018,
+        "log_rank": 1.9191,
+        "log_freq": -2.8013
+      },
+      {
+        "rank": 84,
+        "word": "about",
+        "count": 2085,
+        "freq": 0.00157189,
+        "log_rank": 1.9243,
+        "log_freq": -2.8036
+      },
+      {
+        "rank": 85,
+        "word": "give",
+        "count": 2083,
+        "freq": 0.00157038,
+        "log_rank": 1.9294,
+        "log_freq": -2.804
+      },
+      {
+        "rank": 86,
+        "word": "up",
+        "count": 2069,
+        "freq": 0.00155982,
+        "log_rank": 1.9345,
+        "log_freq": -2.8069
+      },
+      {
+        "rank": 87,
+        "word": "done",
+        "count": 2009,
+        "freq": 0.00151459,
+        "log_rank": 1.9395,
+        "log_freq": -2.8197
+      },
+      {
+        "rank": 88,
+        "word": "does",
+        "count": 2002,
+        "freq": 0.00150931,
+        "log_rank": 1.9445,
+        "log_freq": -2.8212
+      },
+      {
+        "rank": 89,
+        "word": "monastic",
+        "count": 1978,
+        "freq": 0.00149122,
+        "log_rank": 1.9494,
+        "log_freq": -2.8265
+      },
+      {
+        "rank": 90,
+        "word": "kinds",
+        "count": 1977,
+        "freq": 0.00149046,
+        "log_rank": 1.9542,
+        "log_freq": -2.8267
+      },
+      {
+        "rank": 91,
+        "word": "we",
+        "count": 1976,
+        "freq": 0.00148971,
+        "log_rank": 1.959,
+        "log_freq": -2.8269
+      },
+      {
+        "rank": 92,
+        "word": "like",
+        "count": 1968,
+        "freq": 0.00148368,
+        "log_rank": 1.9638,
+        "log_freq": -2.8287
+      },
+      {
+        "rank": 93,
+        "word": "other",
+        "count": 1931,
+        "freq": 0.00145579,
+        "log_rank": 1.9685,
+        "log_freq": -2.8369
+      },
+      {
+        "rank": 94,
+        "word": "venerable",
+        "count": 1902,
+        "freq": 0.00143392,
+        "log_rank": 1.9731,
+        "log_freq": -2.8435
+      },
+      {
+        "rank": 95,
+        "word": "did",
+        "count": 1881,
+        "freq": 0.00141809,
+        "log_rank": 1.9777,
+        "log_freq": -2.8483
+      },
+      {
+        "rank": 96,
+        "word": "people",
+        "count": 1865,
+        "freq": 0.00140603,
+        "log_rank": 1.9823,
+        "log_freq": -2.852
+      },
+      {
+        "rank": 97,
+        "word": "offense",
+        "count": 1829,
+        "freq": 0.00137889,
+        "log_rank": 1.9868,
+        "log_freq": -2.8605
+      },
+      {
+        "rank": 98,
+        "word": "five",
+        "count": 1817,
+        "freq": 0.00136984,
+        "log_rank": 1.9912,
+        "log_freq": -2.8633
+      },
+      {
+        "rank": 99,
+        "word": "six",
+        "count": 1805,
+        "freq": 0.00136079,
+        "log_rank": 1.9956,
+        "log_freq": -2.8662
+      },
+      {
+        "rank": 100,
+        "word": "through",
+        "count": 1790,
+        "freq": 0.00134948,
+        "log_rank": 2.0,
+        "log_freq": -2.8698
+      },
+      {
+        "rank": 101,
+        "word": "first",
+        "count": 1781,
+        "freq": 0.0013427,
+        "log_rank": 2.0043,
+        "log_freq": -2.872
+      },
+      {
+        "rank": 102,
+        "word": "all",
+        "count": 1780,
+        "freq": 0.00134195,
+        "log_rank": 2.0086,
+        "log_freq": -2.8723
+      },
+      {
+        "rank": 103,
+        "word": "my",
+        "count": 1776,
+        "freq": 0.00133893,
+        "log_rank": 2.0128,
+        "log_freq": -2.8732
+      },
+      {
+        "rank": 104,
+        "word": "go",
+        "count": 1722,
+        "freq": 0.00129822,
+        "log_rank": 2.017,
+        "log_freq": -2.8867
+      },
+      {
+        "rank": 105,
+        "word": "because",
+        "count": 1703,
+        "freq": 0.0012839,
+        "log_rank": 2.0212,
+        "log_freq": -2.8915
+      },
+      {
+        "rank": 106,
+        "word": "being",
+        "count": 1700,
+        "freq": 0.00128163,
+        "log_rank": 2.0253,
+        "log_freq": -2.8922
+      },
+      {
+        "rank": 107,
+        "word": "me",
+        "count": 1655,
+        "freq": 0.00124771,
+        "log_rank": 2.0294,
+        "log_freq": -2.9039
+      },
+      {
+        "rank": 108,
+        "word": "made",
+        "count": 1621,
+        "freq": 0.00122208,
+        "log_rank": 2.0334,
+        "log_freq": -2.9129
+      },
+      {
+        "rank": 109,
+        "word": "where",
+        "count": 1595,
+        "freq": 0.00120247,
+        "log_rank": 2.0374,
+        "log_freq": -2.9199
+      },
+      {
+        "rank": 110,
+        "word": "another",
+        "count": 1587,
+        "freq": 0.00119644,
+        "log_rank": 2.0414,
+        "log_freq": -2.9221
+      },
+      {
+        "rank": 111,
+        "word": "many",
+        "count": 1553,
+        "freq": 0.00117081,
+        "log_rank": 2.0453,
+        "log_freq": -2.9315
+      },
+      {
+        "rank": 112,
+        "word": "without",
+        "count": 1548,
+        "freq": 0.00116704,
+        "log_rank": 2.0492,
+        "log_freq": -2.9329
+      },
+      {
+        "rank": 113,
+        "word": "teaching",
+        "count": 1546,
+        "freq": 0.00116553,
+        "log_rank": 2.0531,
+        "log_freq": -2.9335
+      },
+      {
+        "rank": 114,
+        "word": "full",
+        "count": 1538,
+        "freq": 0.0011595,
+        "log_rank": 2.0569,
+        "log_freq": -2.9357
+      },
+      {
+        "rank": 115,
+        "word": "your",
+        "count": 1536,
+        "freq": 0.00115799,
+        "log_rank": 2.0607,
+        "log_freq": -2.9363
+      },
+      {
+        "rank": 116,
+        "word": "four",
+        "count": 1499,
+        "freq": 0.0011301,
+        "log_rank": 2.0645,
+        "log_freq": -2.9469
+      },
+      {
+        "rank": 117,
+        "word": "given",
+        "count": 1493,
+        "freq": 0.00112558,
+        "log_rank": 2.0682,
+        "log_freq": -2.9486
+      },
+      {
+        "rank": 118,
+        "word": "bu",
+        "count": 1488,
+        "freq": 0.00112181,
+        "log_rank": 2.0719,
+        "log_freq": -2.9501
+      },
+      {
+        "rank": 119,
+        "word": "body",
+        "count": 1466,
+        "freq": 0.00110522,
+        "log_rank": 2.0755,
+        "log_freq": -2.9566
+      },
+      {
+        "rank": 120,
+        "word": "also",
+        "count": 1457,
+        "freq": 0.00109844,
+        "log_rank": 2.0792,
+        "log_freq": -2.9592
+      },
+      {
+        "rank": 121,
+        "word": "while",
+        "count": 1395,
+        "freq": 0.00105169,
+        "log_rank": 2.0828,
+        "log_freq": -2.9781
+      },
+      {
+        "rank": 122,
+        "word": "great",
+        "count": 1368,
+        "freq": 0.00103134,
+        "log_rank": 2.0864,
+        "log_freq": -2.9866
+      },
+      {
+        "rank": 123,
+        "word": "kd",
+        "count": 1365,
+        "freq": 0.00102908,
+        "log_rank": 2.0899,
+        "log_freq": -2.9876
+      },
+      {
+        "rank": 124,
+        "word": "group",
+        "count": 1348,
+        "freq": 0.00101626,
+        "log_rank": 2.0934,
+        "log_freq": -2.993
+      },
+      {
+        "rank": 125,
+        "word": "went",
+        "count": 1348,
+        "freq": 0.00101626,
+        "log_rank": 2.0969,
+        "log_freq": -2.993
+      },
+      {
+        "rank": 126,
+        "word": "finished",
+        "count": 1324,
+        "freq": 0.00099817,
+        "log_rank": 2.1004,
+        "log_freq": -3.0008
+      },
+      {
+        "rank": 127,
+        "word": "sp",
+        "count": 1318,
+        "freq": 0.00099364,
+        "log_rank": 2.1038,
+        "log_freq": -3.0028
+      },
+      {
+        "rank": 128,
+        "word": "told",
+        "count": 1317,
+        "freq": 0.00099289,
+        "log_rank": 2.1072,
+        "log_freq": -3.0031
+      },
+      {
+        "rank": 129,
+        "word": "day",
+        "count": 1309,
+        "freq": 0.00098686,
+        "log_rank": 2.1106,
+        "log_freq": -3.0057
+      },
+      {
+        "rank": 130,
+        "word": "please",
+        "count": 1301,
+        "freq": 0.00098083,
+        "log_rank": 2.1139,
+        "log_freq": -3.0084
+      },
+      {
+        "rank": 131,
+        "word": "here",
+        "count": 1280,
+        "freq": 0.00096499,
+        "log_rank": 2.1173,
+        "log_freq": -3.0155
+      },
+      {
+        "rank": 132,
+        "word": "true",
+        "count": 1269,
+        "freq": 0.0009567,
+        "log_rank": 2.1206,
+        "log_freq": -3.0192
+      },
+      {
+        "rank": 133,
+        "word": "mind",
+        "count": 1264,
+        "freq": 0.00095293,
+        "log_rank": 2.1239,
+        "log_freq": -3.0209
+      },
+      {
+        "rank": 134,
+        "word": "can",
+        "count": 1250,
+        "freq": 0.00094238,
+        "log_rank": 2.1271,
+        "log_freq": -3.0258
+      },
+      {
+        "rank": 135,
+        "word": "rules",
+        "count": 1241,
+        "freq": 0.00093559,
+        "log_rank": 2.1303,
+        "log_freq": -3.0289
+      },
+      {
+        "rank": 136,
+        "word": "both",
+        "count": 1229,
+        "freq": 0.00092655,
+        "log_rank": 2.1335,
+        "log_freq": -3.0331
+      },
+      {
+        "rank": 137,
+        "word": "cloth",
+        "count": 1222,
+        "freq": 0.00092127,
+        "log_rank": 2.1367,
+        "log_freq": -3.0356
+      },
+      {
+        "rank": 138,
+        "word": "more",
+        "count": 1203,
+        "freq": 0.00090694,
+        "log_rank": 2.1399,
+        "log_freq": -3.0424
+      },
+      {
+        "rank": 139,
+        "word": "make",
+        "count": 1189,
+        "freq": 0.00089639,
+        "log_rank": 2.143,
+        "log_freq": -3.0475
+      },
+      {
+        "rank": 140,
+        "word": "any",
+        "count": 1187,
+        "freq": 0.00089488,
+        "log_rank": 2.1461,
+        "log_freq": -3.0482
+      },
+      {
+        "rank": 141,
+        "word": "same",
+        "count": 1187,
+        "freq": 0.00089488,
+        "log_rank": 2.1492,
+        "log_freq": -3.0482
+      },
+      {
+        "rank": 142,
+        "word": "water",
+        "count": 1176,
+        "freq": 0.00088659,
+        "log_rank": 2.1523,
+        "log_freq": -3.0523
+      },
+      {
+        "rank": 143,
+        "word": "well",
+        "count": 1159,
+        "freq": 0.00087377,
+        "log_rank": 2.1553,
+        "log_freq": -3.0586
+      },
+      {
+        "rank": 144,
+        "word": "way",
+        "count": 1158,
+        "freq": 0.00087302,
+        "log_rank": 2.1584,
+        "log_freq": -3.059
+      },
+      {
+        "rank": 145,
+        "word": "means",
+        "count": 1150,
+        "freq": 0.00086699,
+        "log_rank": 2.1614,
+        "log_freq": -3.062
+      },
+      {
+        "rank": 146,
+        "word": "ceremony",
+        "count": 1146,
+        "freq": 0.00086397,
+        "log_rank": 2.1644,
+        "log_freq": -3.0635
+      },
+      {
+        "rank": 147,
+        "word": "sir",
+        "count": 1140,
+        "freq": 0.00085945,
+        "log_rank": 2.1673,
+        "log_freq": -3.0658
+      },
+      {
+        "rank": 148,
+        "word": "story",
+        "count": 1120,
+        "freq": 0.00084437,
+        "log_rank": 2.1703,
+        "log_freq": -3.0735
+      },
+      {
+        "rank": 149,
+        "word": "food",
+        "count": 1120,
+        "freq": 0.00084437,
+        "log_rank": 2.1732,
+        "log_freq": -3.0735
+      },
+      {
+        "rank": 150,
+        "word": "committed",
+        "count": 1117,
+        "freq": 0.00084211,
+        "log_rank": 2.1761,
+        "log_freq": -3.0746
+      },
+      {
+        "rank": 151,
+        "word": "asked",
+        "count": 1106,
+        "freq": 0.00083382,
+        "log_rank": 2.179,
+        "log_freq": -3.0789
+      },
+      {
+        "rank": 152,
+        "word": "law",
+        "count": 1105,
+        "freq": 0.00083306,
+        "log_rank": 2.1818,
+        "log_freq": -3.0793
+      },
+      {
+        "rank": 153,
+        "word": "back",
+        "count": 1096,
+        "freq": 0.00082628,
+        "log_rank": 2.1847,
+        "log_freq": -3.0829
+      },
+      {
+        "rank": 154,
+        "word": "just",
+        "count": 1094,
+        "freq": 0.00082477,
+        "log_rank": 2.1875,
+        "log_freq": -3.0837
+      },
+      {
+        "rank": 155,
+        "word": "man",
+        "count": 1093,
+        "freq": 0.00082402,
+        "log_rank": 2.1903,
+        "log_freq": -3.0841
+      },
+      {
+        "rank": 156,
+        "word": "offence",
+        "count": 1091,
+        "freq": 0.00082251,
+        "log_rank": 2.1931,
+        "log_freq": -3.0849
+      },
+      {
+        "rank": 157,
+        "word": "ask",
+        "count": 1090,
+        "freq": 0.00082175,
+        "log_rank": 2.1959,
+        "log_freq": -3.0853
+      },
+      {
+        "rank": 158,
+        "word": "saying",
+        "count": 1082,
+        "freq": 0.00081572,
+        "log_rank": 2.1987,
+        "log_freq": -3.0885
+      },
+      {
+        "rank": 159,
+        "word": "life",
+        "count": 1069,
+        "freq": 0.00080592,
+        "log_rank": 2.2014,
+        "log_freq": -3.0937
+      },
+      {
+        "rank": 160,
+        "word": "than",
+        "count": 1066,
+        "freq": 0.00080366,
+        "log_rank": 2.2041,
+        "log_freq": -3.0949
+      },
+      {
+        "rank": 161,
+        "word": "together",
+        "count": 1063,
+        "freq": 0.0008014,
+        "log_rank": 2.2068,
+        "log_freq": -3.0962
+      },
+      {
+        "rank": 162,
+        "word": "now",
+        "count": 1049,
+        "freq": 0.00079084,
+        "log_rank": 2.2095,
+        "log_freq": -3.1019
+      },
+      {
+        "rank": 163,
+        "word": "brahmin",
+        "count": 1045,
+        "freq": 0.00078783,
+        "log_rank": 2.2122,
+        "log_freq": -3.1036
+      },
+      {
+        "rank": 164,
+        "word": "non",
+        "count": 1039,
+        "freq": 0.0007833,
+        "log_rank": 2.2148,
+        "log_freq": -3.1061
+      },
+      {
+        "rank": 165,
+        "word": "suspension",
+        "count": 1032,
+        "freq": 0.00077803,
+        "log_rank": 2.2175,
+        "log_freq": -3.109
+      },
+      {
+        "rank": 166,
+        "word": "know",
+        "count": 1015,
+        "freq": 0.00076521,
+        "log_rank": 2.2201,
+        "log_freq": -3.1162
+      },
+      {
+        "rank": 167,
+        "word": "would",
+        "count": 996,
+        "freq": 0.00075089,
+        "log_rank": 2.2227,
+        "log_freq": -3.1244
+      },
+      {
+        "rank": 168,
+        "word": "making",
+        "count": 995,
+        "freq": 0.00075013,
+        "log_rank": 2.2253,
+        "log_freq": -3.1249
+      },
+      {
+        "rank": 169,
+        "word": "right",
+        "count": 982,
+        "freq": 0.00074033,
+        "log_rank": 2.2279,
+        "log_freq": -3.1306
+      },
+      {
+        "rank": 170,
+        "word": "pc",
+        "count": 978,
+        "freq": 0.00073732,
+        "log_rank": 2.2304,
+        "log_freq": -3.1323
+      },
+      {
+        "rank": 171,
+        "word": "expulsion",
+        "count": 964,
+        "freq": 0.00072676,
+        "log_rank": 2.233,
+        "log_freq": -3.1386
+      },
+      {
+        "rank": 172,
+        "word": "good",
+        "count": 958,
+        "freq": 0.00072224,
+        "log_rank": 2.2355,
+        "log_freq": -3.1413
+      },
+      {
+        "rank": 173,
+        "word": "woman",
+        "count": 951,
+        "freq": 0.00071696,
+        "log_rank": 2.238,
+        "log_freq": -3.1445
+      },
+      {
+        "rank": 174,
+        "word": "some",
+        "count": 950,
+        "freq": 0.00071621,
+        "log_rank": 2.2405,
+        "log_freq": -3.145
+      },
+      {
+        "rank": 175,
+        "word": "away",
+        "count": 948,
+        "freq": 0.0007147,
+        "log_rank": 2.243,
+        "log_freq": -3.1459
+      },
+      {
+        "rank": 176,
+        "word": "according",
+        "count": 945,
+        "freq": 0.00071244,
+        "log_rank": 2.2455,
+        "log_freq": -3.1473
+      },
+      {
+        "rank": 177,
+        "word": "second",
+        "count": 941,
+        "freq": 0.00070942,
+        "log_rank": 2.248,
+        "log_freq": -3.1491
+      },
+      {
+        "rank": 178,
+        "word": "face",
+        "count": 939,
+        "freq": 0.00070791,
+        "log_rank": 2.2504,
+        "log_freq": -3.15
+      },
+      {
+        "rank": 179,
+        "word": "say",
+        "count": 932,
+        "freq": 0.00070264,
+        "log_rank": 2.2529,
+        "log_freq": -3.1533
+      },
+      {
+        "rank": 180,
+        "word": "against",
+        "count": 923,
+        "freq": 0.00069585,
+        "log_rank": 2.2553,
+        "log_freq": -3.1575
+      },
+      {
+        "rank": 181,
+        "word": "says",
+        "count": 919,
+        "freq": 0.00069284,
+        "log_rank": 2.2577,
+        "log_freq": -3.1594
+      },
+      {
+        "rank": 182,
+        "word": "seven",
+        "count": 911,
+        "freq": 0.0006868,
+        "log_rank": 2.2601,
+        "log_freq": -3.1632
+      },
+      {
+        "rank": 183,
+        "word": "into",
+        "count": 908,
+        "freq": 0.00068454,
+        "log_rank": 2.2625,
+        "log_freq": -3.1646
+      },
+      {
+        "rank": 184,
+        "word": "person",
+        "count": 907,
+        "freq": 0.00068379,
+        "log_rank": 2.2648,
+        "log_freq": -3.1651
+      },
+      {
+        "rank": 185,
+        "word": "assembly",
+        "count": 898,
+        "freq": 0.000677,
+        "log_rank": 2.2672,
+        "log_freq": -3.1694
+      },
+      {
+        "rank": 186,
+        "word": "fully",
+        "count": 895,
+        "freq": 0.00067474,
+        "log_rank": 2.2695,
+        "log_freq": -3.1709
+      },
+      {
+        "rank": 187,
+        "word": "only",
+        "count": 887,
+        "freq": 0.00066871,
+        "log_rank": 2.2718,
+        "log_freq": -3.1748
+      },
+      {
+        "rank": 188,
+        "word": "number",
+        "count": 882,
+        "freq": 0.00066494,
+        "log_rank": 2.2742,
+        "log_freq": -3.1772
+      },
+      {
+        "rank": 189,
+        "word": "thought",
+        "count": 882,
+        "freq": 0.00066494,
+        "log_rank": 2.2765,
+        "log_freq": -3.1772
+      },
+      {
+        "rank": 190,
+        "word": "bowl",
+        "count": 878,
+        "freq": 0.00066193,
+        "log_rank": 2.2788,
+        "log_freq": -3.1792
+      },
+      {
+        "rank": 191,
+        "word": "certain",
+        "count": 871,
+        "freq": 0.00065665,
+        "log_rank": 2.281,
+        "log_freq": -3.1827
+      },
+      {
+        "rank": 192,
+        "word": "someone",
+        "count": 870,
+        "freq": 0.00065589,
+        "log_rank": 2.2833,
+        "log_freq": -3.1832
+      },
+      {
+        "rank": 193,
+        "word": "ordination",
+        "count": 868,
+        "freq": 0.00065439,
+        "log_rank": 2.2856,
+        "log_freq": -3.1842
+      },
+      {
+        "rank": 194,
+        "word": "thus",
+        "count": 865,
+        "freq": 0.00065213,
+        "log_rank": 2.2878,
+        "log_freq": -3.1857
+      },
+      {
+        "rank": 195,
+        "word": "speech",
+        "count": 863,
+        "freq": 0.00065062,
+        "log_rank": 2.29,
+        "log_freq": -3.1867
+      },
+      {
+        "rank": 196,
+        "word": "robes",
+        "count": 861,
+        "freq": 0.00064911,
+        "log_rank": 2.2923,
+        "log_freq": -3.1877
+      },
+      {
+        "rank": 197,
+        "word": "too",
+        "count": 858,
+        "freq": 0.00064685,
+        "log_rank": 2.2945,
+        "log_freq": -3.1892
+      },
+      {
+        "rank": 198,
+        "word": "place",
+        "count": 853,
+        "freq": 0.00064308,
+        "log_rank": 2.2967,
+        "log_freq": -3.1917
+      },
+      {
+        "rank": 199,
+        "word": "over",
+        "count": 848,
+        "freq": 0.00063931,
+        "log_rank": 2.2989,
+        "log_freq": -3.1943
+      },
+      {
+        "rank": 200,
+        "word": "heard",
+        "count": 847,
+        "freq": 0.00063856,
+        "log_rank": 2.301,
+        "log_freq": -3.1948
+      }
+    ]
+  },
+  "numerals": {
+    "pitaka_sutta": {
+      "numeral_count": 28575,
+      "total_tokens": 1368935,
+      "numeral_pct": 2.087,
+      "top_numerals": [
+        [
+          "one",
+          10299
+        ],
+        [
+          "four",
+          2946
+        ],
+        [
+          "five",
+          2879
+        ],
+        [
+          "three",
+          2257
+        ],
+        [
+          "two",
+          1271
+        ],
+        [
+          "seven",
+          1088
+        ],
+        [
+          "six",
+          963
+        ],
+        [
+          "first",
+          942
+        ],
+        [
+          "second",
+          757
+        ],
+        [
+          "third",
+          644
+        ],
+        [
+          "hundred",
+          603
+        ],
+        [
+          "eight",
+          598
+        ],
+        [
+          "fourth",
+          471
+        ],
+        [
+          "ten",
+          465
+        ],
+        [
+          "eightfold",
+          415
+        ]
+      ]
+    },
+    "pitaka_vinaya_theravada": {
+      "numeral_count": 24960,
+      "total_tokens": 1027729,
+      "numeral_pct": 2.429,
+      "top_numerals": [
+        [
+          "one",
+          10050
+        ],
+        [
+          "two",
+          2151
+        ],
+        [
+          "three",
+          2046
+        ],
+        [
+          "six",
+          1636
+        ],
+        [
+          "first",
+          1552
+        ],
+        [
+          "five",
+          1413
+        ],
+        [
+          "four",
+          1024
+        ],
+        [
+          "second",
+          839
+        ],
+        [
+          "seven",
+          669
+        ],
+        [
+          "third",
+          592
+        ],
+        [
+          "ten",
+          408
+        ],
+        [
+          "eight",
+          324
+        ],
+        [
+          "fourth",
+          258
+        ],
+        [
+          "hundred",
+          229
+        ],
+        [
+          "twelve",
+          202
+        ]
+      ]
+    },
+    "pitaka_abhidhamma": {
+      "numeral_count": 5482,
+      "total_tokens": 168041,
+      "numeral_pct": 3.262,
+      "top_numerals": [
+        [
+          "one",
+          1050
+        ],
+        [
+          "four",
+          577
+        ],
+        [
+          "two",
+          506
+        ],
+        [
+          "three",
+          488
+        ],
+        [
+          "five",
+          455
+        ],
+        [
+          "first",
+          325
+        ],
+        [
+          "six",
+          196
+        ],
+        [
+          "eight",
+          191
+        ],
+        [
+          "seven",
+          153
+        ],
+        [
+          "second",
+          123
+        ],
+        [
+          "twenty",
+          121
+        ],
+        [
+          "third",
+          109
+        ],
+        [
+          "ten",
+          108
+        ],
+        [
+          "twelve",
+          95
+        ],
+        [
+          "fourth",
+          92
+        ]
+      ]
+    },
+    "vinaya_brahmali": {
+      "numeral_count": 23083,
+      "total_tokens": 911893,
+      "numeral_pct": 2.531,
+      "top_numerals": [
+        [
+          "one",
+          9191
+        ],
+        [
+          "two",
+          1959
+        ],
+        [
+          "three",
+          1900
+        ],
+        [
+          "six",
+          1609
+        ],
+        [
+          "first",
+          1432
+        ],
+        [
+          "five",
+          1297
+        ],
+        [
+          "four",
+          947
+        ],
+        [
+          "second",
+          766
+        ],
+        [
+          "seven",
+          640
+        ],
+        [
+          "third",
+          528
+        ],
+        [
+          "ten",
+          390
+        ],
+        [
+          "eight",
+          315
+        ],
+        [
+          "fourth",
+          223
+        ],
+        [
+          "hundred",
+          211
+        ],
+        [
+          "twelve",
+          199
+        ]
+      ]
+    },
+    "vinaya_horner": {
+      "numeral_count": 1877,
+      "total_tokens": 115836,
+      "numeral_pct": 1.62,
+      "top_numerals": [
+        [
+          "one",
+          859
+        ],
+        [
+          "two",
+          192
+        ],
+        [
+          "three",
+          146
+        ],
+        [
+          "first",
+          120
+        ],
+        [
+          "five",
+          116
+        ],
+        [
+          "four",
+          77
+        ],
+        [
+          "second",
+          73
+        ],
+        [
+          "third",
+          64
+        ],
+        [
+          "fourth",
+          35
+        ],
+        [
+          "seven",
+          29
+        ],
+        [
+          "six",
+          27
+        ],
+        [
+          "hundred",
+          18
+        ],
+        [
+          "ten",
+          18
+        ],
+        [
+          "thousand",
+          10
+        ],
+        [
+          "nine",
+          10
+        ]
+      ]
+    },
+    "vinaya_dharmaguptaka": {
+      "numeral_count": 494,
+      "total_tokens": 24314,
+      "numeral_pct": 2.032,
+      "top_numerals": [
+        [
+          "one",
+          176
+        ],
+        [
+          "three",
+          82
+        ],
+        [
+          "four",
+          59
+        ],
+        [
+          "two",
+          44
+        ],
+        [
+          "first",
+          42
+        ],
+        [
+          "third",
+          19
+        ],
+        [
+          "seven",
+          14
+        ],
+        [
+          "five",
+          11
+        ],
+        [
+          "ten",
+          11
+        ],
+        [
+          "six",
+          10
+        ],
+        [
+          "second",
+          9
+        ],
+        [
+          "eight",
+          6
+        ],
+        [
+          "nine",
+          2
+        ],
+        [
+          "fourth",
+          2
+        ],
+        [
+          "fifth",
+          2
+        ]
+      ]
+    },
+    "vinaya_mulasarvastivada": {
+      "numeral_count": 7578,
+      "total_tokens": 274389,
+      "numeral_pct": 2.762,
+      "top_numerals": [
+        [
+          "one",
+          3885
+        ],
+        [
+          "four",
+          416
+        ],
+        [
+          "two",
+          411
+        ],
+        [
+          "five",
+          393
+        ],
+        [
+          "hundred",
+          392
+        ],
+        [
+          "three",
+          349
+        ],
+        [
+          "thousand",
+          229
+        ],
+        [
+          "seven",
+          228
+        ],
+        [
+          "first",
+          187
+        ],
+        [
+          "six",
+          159
+        ],
+        [
+          "thirty",
+          159
+        ],
+        [
+          "second",
+          93
+        ],
+        [
+          "eight",
+          85
+        ],
+        [
+          "eighty",
+          76
+        ],
+        [
+          "twenty",
+          67
+        ]
+      ]
+    },
+    "tipitaka_theravada": {
+      "numeral_count": 57140,
+      "total_tokens": 2448869,
+      "numeral_pct": 2.333,
+      "top_numerals": [
+        [
+          "one",
+          20540
+        ],
+        [
+          "three",
+          4645
+        ],
+        [
+          "five",
+          4631
+        ],
+        [
+          "four",
+          4470
+        ],
+        [
+          "two",
+          3736
+        ],
+        [
+          "six",
+          2768
+        ],
+        [
+          "first",
+          2699
+        ],
+        [
+          "seven",
+          1881
+        ],
+        [
+          "second",
+          1646
+        ],
+        [
+          "third",
+          1281
+        ],
+        [
+          "eight",
+          1104
+        ],
+        [
+          "ten",
+          963
+        ],
+        [
+          "hundred",
+          835
+        ],
+        [
+          "fourth",
+          786
+        ],
+        [
+          "thirty",
+          491
+        ]
+      ]
+    }
+  },
+  "vocabulary_overlap": {
+    "pitaka_sutta__vs__pitaka_vinaya_theravada": {
+      "jaccard": 0.2434,
+      "shared": 6718,
+      "only_a": 5209,
+      "only_b": 15676,
+      "total_a": 11927,
+      "total_b": 22394
+    },
+    "pitaka_sutta__vs__pitaka_abhidhamma": {
+      "jaccard": 0.1768,
+      "shared": 3909,
+      "only_a": 8018,
+      "only_b": 10181,
+      "total_a": 11927,
+      "total_b": 14090
+    },
+    "pitaka_vinaya_theravada__vs__pitaka_abhidhamma": {
+      "jaccard": 0.1468,
+      "shared": 4671,
+      "only_a": 17723,
+      "only_b": 9419,
+      "total_a": 22394,
+      "total_b": 14090
+    },
+    "pitaka_vinaya_theravada__vs__vinaya_dharmaguptaka": {
+      "jaccard": 0.0816,
+      "shared": 1861,
+      "only_a": 20533,
+      "only_b": 421,
+      "total_a": 22394,
+      "total_b": 2282
+    },
+    "pitaka_vinaya_theravada__vs__vinaya_mulasarvastivada": {
+      "jaccard": 0.2001,
+      "shared": 5653,
+      "only_a": 16741,
+      "only_b": 5862,
+      "total_a": 22394,
+      "total_b": 11515
+    },
+    "vinaya_dharmaguptaka__vs__vinaya_mulasarvastivada": {
+      "jaccard": 0.1386,
+      "shared": 1679,
+      "only_a": 603,
+      "only_b": 9836,
+      "total_a": 2282,
+      "total_b": 11515
+    }
+  },
+  "translation_comparison": {
+    "brahmali_ttr": 0.11014908614559292,
+    "horner_ttr": 0.13869092423247545,
+    "overlap": {
+      "jaccard": 0.2421,
+      "shared": 3409,
+      "only_a": 5420,
+      "only_b": 5251,
+      "total_a": 8829,
+      "total_b": 8660
+    },
+    "brahmali_distinctive": [
+      [
+        "color",
+        248
+      ],
+      [
+        "absorption",
+        184
+      ],
+      [
+        "intends",
+        180
+      ],
+      [
+        "sp",
+        161
+      ],
+      [
+        "perceives",
+        151
+      ],
+      [
+        "kd",
+        116
+      ],
+      [
+        "misrepresents",
+        109
+      ],
+      [
+        "paṇḍaka",
+        107
+      ],
+      [
+        "lies",
+        107
+      ],
+      [
+        "consents",
+        106
+      ],
+      [
+        "lacks",
+        103
+      ],
+      [
+        "offense",
+        101
+      ],
+      [
+        "pj",
+        97
+      ],
+      [
+        "response",
+        86
+      ],
+      [
+        "penis",
+        82
+      ]
+    ],
+    "horner_distinctive": [
+      [
+        "offence",
+        1090
+      ],
+      [
+        "va",
+        345
+      ],
+      [
+        "defeat",
+        331
+      ],
+      [
+        "cf",
+        197
+      ],
+      [
+        "honoured",
+        133
+      ],
+      [
+        "musing",
+        119
+      ],
+      [
+        "reverence",
+        96
+      ],
+      [
+        "recluse",
+        93
+      ],
+      [
+        "udayin",
+        85
+      ],
+      [
+        "offences",
+        84
+      ],
+      [
+        "vihara",
+        78
+      ],
+      [
+        "enlightened",
+        72
+      ],
+      [
+        "evil",
+        71
+      ],
+      [
+        "infatuated",
+        69
+      ],
+      [
+        "brahma",
+        60
+      ]
+    ]
+  }
+}

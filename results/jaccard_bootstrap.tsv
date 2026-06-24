@@ -1,0 +1,7 @@
+pair	point	ci_lo	ci_hi	overlap_coeff
+sutta__vs__vinaya_theravada	0.2434	0.2556	0.26	0.5633
+sutta__vs__sangaha_abhidhamma	0.1768	0.1727	0.1771	0.3277
+vinaya_theravada__vs__sangaha_abhidhamma	0.1468	0.1477	0.1515	0.3315
+vinaya_theravada__vs__vinaya_mulasarvastivada	0.2001	0.2046	0.2091	0.4909
+vinaya_theravada__vs__vinaya_dharmaguptaka	0.0816	0.0791	0.0824	0.8155
+vinaya_dharmaguptaka__vs__vinaya_mulasarvastivada	0.1386	0.1272	0.133	0.7358
