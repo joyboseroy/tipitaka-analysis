@@ -7,7 +7,6 @@ Computational stylometric analysis of the English Tipiṭaka across all three Pi
 **Paper:** 
 **Extends:** [Darshana Graph](https://github.com/joyboseroy/darshana-graph) (arXiv:2606.18222)  
 **Data:** [joyboseroy/darshana-graph on HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph)  
-**Author:** Joy Bose · joy.bose@ieee.org
 
 ---
 
@@ -181,8 +180,3 @@ All original code in this repository is released under the MIT License.
 
 Corpus data licenses vary by source — see `data/sources.md` for details. The Sutta corpus (Sujato/bilara-data) and Brahmali Vinaya are CC0. The 84000 Mūlasarvāstivāda Vinaya is CC BY-NC-SA 4.0.
 
----
-
-## Contact
-
-Joy Bose · joy.bose@ieee.org · [github.com/joyboseroy](https://github.com/joyboseroy)
